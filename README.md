@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou Otávio Guedes
 
-🚀 **Engenheiro de Software em formação** | Apaixonado pelo universo da programação
+🚀 **Engenheiro de Software em formação** | Apaixonado pelo universo da programação  
+✨ Acredito que a tecnologia pode transformar o mundo!  
 
 ---
 
@@ -9,7 +10,7 @@
 - 🎓 Estudante de **Engenharia de Software**
 - 💻 Focado em **Desenvolvimento Back-end & Web**
 - ✍️ Sempre aprendendo e explorando novas tecnologias: **Python, HTML, CSS, JavaScript e mais**
-- 🌎 Acredito no poder da tecnologia para transformar o mundo
+- 🌍 Curioso sobre soluções que impactam positivamente a sociedade
 
 ---
 
@@ -22,13 +23,25 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=44CC11)
 
+
+
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PandaLoko27&theme=merko&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&theme=merko&border_color=ffffff)](https://github.com/PandaLoko27/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&layout=compact&theme=merko)](https://github.com/PandaLoko27/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PandaLoko27&show_icons=true&theme=merko&count_private=true)](https://github.com/PandaLoko27/github-readme-stats)
+
+---
+
+### 🚀 Projetos em destaque
+
+- [Projeto 1](https://github.com/PandaLoko27/projeto1) - Descrição rápida do projeto.
+- [Projeto 2](https://github.com/PandaLoko27/projeto2) - Outra descrição rápida.
+- [Projeto 3](https://github.com/PandaLoko27/projeto3) - Projeto open source que desenvolvo.
 
 ---
 
