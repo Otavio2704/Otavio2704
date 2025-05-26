@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou Otávio Guedes!
 
-<!--
-**PandaLoko27/PandaLoko27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Engenheiro de Software em formação • Apaixonado por transformar ideias em códigos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre mim
+
+- 🎓 Estudante de **Engenharia de Software**
+- 💻 Atualmente focado em **Desenvolvimento Back-end & Web**
+- ✍️  Sempre aprendendo algo novo em **Python, HTML e etc**
+- 🌎 Acredito no poder do código para mudar o mundo
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=green)
+
+---
+
+### Estatísticas GitHub
+[![GitHub Streak](https://streak-stats.demolab.com?user=PandaLoko27&theme=merko&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
+
+![Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&layout=compact&langs_count=10&theme=default)
