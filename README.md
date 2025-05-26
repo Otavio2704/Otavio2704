@@ -7,7 +7,7 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software**
-- 💻 Focado em **Desenvolvimento Back-end & Web**
+- 💻 Focado em **Desenvolvimento Back-end & Front-end**
 - ✍️ Sempre aprendendo e explorando novas tecnologias: **Python, HTML, CSS, JavaScript e mais**
 - ✨ Acredito que a tecnologia pode transformar o mundo!  
 
