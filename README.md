@@ -39,9 +39,9 @@
 
 ### 🚀 Projetos em destaque
 
-- [Projeto 1](https://github.com/PandaLoko27/projeto1) - Descrição rápida do projeto.
-- [Projeto 2](https://github.com/PandaLoko27/projeto2) - Outra descrição rápida.
-- [Projeto 3](https://github.com/PandaLoko27/projeto3) - Projeto open source que desenvolvo.
+- [Organizador de arquivos](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py) - Um sistema Python que organiza arquivos em pastas.
+- [The Sims](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py) - Um joguinho estilo The Sims com Python.
+- [Calculadora simples](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples) - Uma calculadora simples feita com HTML, CSS e Javascript
 
 ---
 
