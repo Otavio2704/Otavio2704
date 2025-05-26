@@ -27,5 +27,4 @@
 ### Estatísticas GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=PandaLoko27&theme=merko&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&bg_color=000000&border_color=ffffff&title_color=ffffff&text_color=ffffff&bar_color=ffff00)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&theme=merko&border_color=ffffff)
