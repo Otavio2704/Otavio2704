@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Otávio Guedes
 
-🚀 **Engenheiro de Software em formação** | Apaixonado por transformar ideias em código
+🚀 **Engenheiro de Software em formação** | Apaixonado pelo universo da programação
 
 ---
 
@@ -12,8 +12,6 @@
 - 🌎 Acredito no poder da tecnologia para transformar o mundo
 
 ---
-
-### 🛠️ Tecnologias & Ferramentas
 
 ### 🛠️ Tecnologias & Ferramentas
 
