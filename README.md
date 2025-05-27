@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Meus melhores projetos
 
 - [Organizador de arquivos](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py) - Um sistema Python que organiza arquivos em pastas.
 - [The Sims](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py) - Um joguinho estilo The Sims com Python.
