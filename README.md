@@ -39,6 +39,7 @@
 - [Organizador de arquivos](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py) - Um sistema Python que organiza arquivos em pastas.
 - [The Sims](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py) - Um joguinho estilo The Sims com Python.
 - [Calculadora simples](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples) - Uma calculadora simples feita com HTML, CSS e Javascript
+- [Catalogo de jogos zerados](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados) - Um site onde o usuário pode listar os jogos em que zerou
 
 ---
 
