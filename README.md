@@ -1,17 +1,18 @@
-# 👋 Olá! Eu sou Otávio Guedes
+# 👨‍💻 Otávio Guedes - Estudante de Engenharia de Software | Dev Back-end em formação
 
-🚀 **Engenheiro de Software em formação** | ❤️💻Apaixonado pelo universo da programação | 🌍 Curioso sobre soluções que impactam positivamente a sociedade
+🚀 Apaixonado por tecnologia e desenvolvimento de software  
+💡 Curioso por soluções que impactam positivamente a sociedade  
+💻 Em constante aprendizado: Python, Java, HTML, CSS, JavaScript e mais!
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software**
-- 💻 Focado em **Desenvolvimento Back-end & Front-end**
-- ✍️ Sempre aprendendo e explorando novas tecnologias: **Python, HTML, CSS, JavaScript e mais**
-- ✨ Acredito que a tecnologia pode transformar o mundo!  
+Sou estudante de **Engenharia de Software**, entusiasta da programação e da tecnologia como ferramenta de transformação social.  
+Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre explorando novas linguagens e ferramentas.
 
 ---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -30,6 +31,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
 </div>
 
+**Principais tecnologias:**  
+HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
+
+---
+
+### 🚀 Meus melhores projetos
+
+- 🔧 [Organizador de arquivos](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py) — Automatiza a organização de arquivos em pastas por extensão com Python.
+- 🕹️ [The Sims (com POO)](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py) — Joguinho em Python inspirado em The Sims, com interações básicas e gerenciamento de personagem.
+- 🧮 [Calculadora simples](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples) — Calculadora funcional com HTML, CSS e JavaScript.
+- 🎮 [Catálogo de jogos zerados](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados) — Site para listar e organizar os jogos que o usuário já zerou.
 
 ---
 
@@ -41,18 +53,15 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PandaLoko27&show_icons=true&theme=merko&count_private=true)](https://github.com/PandaLoko27/github-readme-stats)
 
----
-
-### 🚀 Meus melhores projetos
-
-- [Organizador de arquivos](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py) - Um sistema Python que organiza arquivos em pastas.
-- [The Sims](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py) - Um joguinho estilo The Sims com Python.
-- [Calculadora simples](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples) - Uma calculadora simples feita com HTML, CSS e Javascript
-- [Catálogo de jogos zerados](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados) - Um site onde o usuário pode listar os jogos em que zerou
+![Visitantes](https://komarev.com/ghpvc/?username=PandaLoko27&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=green)
 
 ---
 
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/otávio-araújo-aredes-guedes-ab44a4248/)  
-✉️ [otavioaredes62@gmail.com](mailto:otavioaredes62@gmail.com)
+📬 [Me envie um e-mail](mailto:otavioaredes62@gmail.com)
+
+---
+
+> “A tecnologia move o mundo. O que você criar com ela pode mover pessoas.” 🌍
