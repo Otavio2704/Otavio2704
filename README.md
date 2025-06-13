@@ -19,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&labelColor=green)
 
