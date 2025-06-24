@@ -38,11 +38,12 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
 
 ### 🚀 Meus melhores projetos
 
-- 🎰 [Simulador de BETS](https://github.com/PandaLoko27/SimuladorDeBETS) - simula um caça-níquel com aparência moderna de cassino. Seu propósito **não é incentivar apostas**, mas **mostrar como os jogos de azar manipulam o comportamento do jogador** — começando com ganhos e terminando em perdas totais.
+- 🎰 [Simulador de BETS](https://github.com/PandaLoko27/SimuladorDeBETS) - simula um caça-níquel com aparência moderna de cassino. Seu propósito **não é incentivar apostas**, mas **mostrar como os jogos de azar manipulam o comportamento do jogador** — começando com ganhos e terminando em perdas totais. (Feito com Python/Flask, HTML e CSS)
 - 🔧 [Organizador de arquivos](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py) — Automatiza a organização de arquivos em pastas por extensão com Python.
 - 🕹️ [The Sims (com POO)](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py) — Joguinho em Python inspirado em The Sims, com interações básicas e gerenciamento de personagem.
 - 🧮 [Calculadora simples](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples) — Calculadora funcional com HTML, CSS e JavaScript.
-- 🎮 [Catálogo de jogos zerados](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados) — Site para listar e organizar os jogos que o usuário já zerou.
+- 🎮 [Catálogo de jogos zerados](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados) — Site para listar e organizar os jogos que o usuário já zerou.(Feito com HTML, CSS e JavaScript)
+- 💵 [Gerenciador de Despesas](https://github.com/PandaLoko27/MyOwnLilCodes--Java/tree/main/Gerenciador%20de%20despesas) - Um gerenciador de despesas feito com Java
 
 ---
 
