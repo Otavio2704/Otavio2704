@@ -44,6 +44,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
 - 🧮 [Calculadora simples](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples) — Calculadora funcional com HTML, CSS e JavaScript.
 - 🎮 [Catálogo de jogos zerados](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados) — Site para listar e organizar os jogos que o usuário já zerou.(Feito com HTML, CSS e JavaScript)
 - 💵 [Gerenciador de Despesas](https://github.com/PandaLoko27/MyOwnLilCodes--Java/tree/main/Gerenciador%20de%20despesas) - Um gerenciador de despesas feito com Java
+- 🏦 [Sistema Bancário com JAVA](https://github.com/PandaLoko27/sistema-bancario-java-poo/tree/main) - Este é um projeto de simulação de um sistema bancário simples, desenvolvido em Java para consolidar os principais conceitos de Programação Orientada a Objetos (POO)
 
 ---
 
