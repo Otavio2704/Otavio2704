@@ -36,7 +36,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
 
 ---
 
-### 🚀 Meus melhores projetos
+### 🚀 Meus projetos preferidos
 
 <table>
   <tr>
