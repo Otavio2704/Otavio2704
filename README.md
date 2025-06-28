@@ -42,7 +42,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
   <tr>
     <td align="center">
       <a href="https://github.com/PandaLoko27/SimuladorDeBETS">
-        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f3b0.gif" width="200" />
+        <img src="https://img.shields.io/badge/-Simulador%20de%20BETS-111?style=for-the-badge&logo=python&logoColor=white" />
         <br/>
         🎰 <strong>Simulador de BETS</strong>
       </a>
@@ -51,7 +51,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
-        <img src="https://cdn-icons-gif.flaticon.com/12417/12417261.gif" width="200" />
+        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
         🏦 <strong>Sistema Bancário com Java</strong>
       </a>
@@ -62,7 +62,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
   <tr>
     <td align="center">
       <a href="https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJyYjRyaDR5cmtiMnZscmJrNWQ4OGdrcnkxMmxrNTdrYXhuZnJ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gfm4EwaaCuonzi9gaX/giphy.gif" width="200" />
+        <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
         <br/>
         🔧 <strong>Organizador de Arquivos</strong>
       </a>
@@ -71,7 +71,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py">
-        <img src="https://media.tenor.com/dfTSgRxVYq8AAAAM/the-sims-the-sims4.gif" width="200" />
+        <img src="https://img.shields.io/badge/-The%20Sims%20(POO)-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
         <br/>
         🕹️ <strong>The Sims (com POO)</strong>
       </a>
@@ -82,7 +82,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
   <tr>
     <td align="center">
       <a href="https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples">
-        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" />
+        <img src="https://img.shields.io/badge/-Calculadora%20Simples-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
         <br/>
         🧮 <strong>Calculadora Simples</strong>
       </a>
@@ -91,7 +91,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados">
-        <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="200" />
+        <img src="https://img.shields.io/badge/-Catálogo%20de%20Jogos-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
         <br/>
         🎮 <strong>Catálogo de Jogos Zerados</strong>
       </a>
@@ -102,7 +102,7 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
   <tr>
     <td align="center">
       <a href="https://github.com/PandaLoko27/MyOwnLilCodes--Java/tree/main/Gerenciador%20de%20despesas">
-        <img src="https://media.giphy.com/media/26Ff2NupXvv7xWlAs/giphy.gif" width="200" />
+        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Despesas-brown?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
         💵 <strong>Gerenciador de Despesas</strong>
       </a>
