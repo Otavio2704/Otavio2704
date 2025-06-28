@@ -38,13 +38,80 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
 
 ### 🚀 Meus melhores projetos
 
-- 🎰 [Simulador de BETS](https://github.com/PandaLoko27/SimuladorDeBETS) - simula um caça-níquel com aparência moderna de cassino. Seu propósito **não é incentivar apostas**, mas **mostrar como os jogos de azar manipulam o comportamento do jogador** — começando com ganhos e terminando em perdas totais. (Feito com Python/Flask, HTML e CSS)
-- 🔧 [Organizador de arquivos](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py) — Automatiza a organização de arquivos em pastas por extensão com Python.
-- 🕹️ [The Sims (com POO)](https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py) — Joguinho em Python inspirado em The Sims, com interações básicas e gerenciamento de personagem.
-- 🧮 [Calculadora simples](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples) — Calculadora funcional com HTML, CSS e JavaScript.
-- 🎮 [Catálogo de jogos zerados](https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados) — Site para listar e organizar os jogos que o usuário já zerou.(Feito com HTML, CSS e JavaScript)
-- 💵 [Gerenciador de Despesas](https://github.com/PandaLoko27/MyOwnLilCodes--Java/tree/main/Gerenciador%20de%20despesas) - Um gerenciador de despesas feito com Java
-- 🏦 [Sistema Bancário com JAVA](https://github.com/PandaLoko27/sistema-bancario-java-poo/tree/main) - Este é um projeto de simulação de um sistema bancário simples, desenvolvido em Java para consolidar os principais conceitos de Programação Orientada a Objetos (POO)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/SimuladorDeBETS">
+        <img src="https://img.shields.io/badge/-Simulador%20de%20BETS-111?style=for-the-badge&logo=python&logoColor=white" />
+        <br/>
+        🎰 <strong>Simulador de BETS</strong>
+      </a>
+      <br/>
+      <sub>Simula um caça-níquel com visual moderno de cassino. O objetivo é mostrar como os jogos de azar manipulam o comportamento do jogador — começa com ganhos e termina em perdas totais.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
+        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <br/>
+        🏦 <strong>Sistema Bancário com Java</strong>
+      </a>
+      <br/>
+      <sub>Simulação de um banco simples, feito com Java para praticar Programação Orientada a Objetos (POO).</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py">
+        <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
+        <br/>
+        🔧 <strong>Organizador de Arquivos</strong>
+      </a>
+      <br/>
+      <sub>Organiza automaticamente arquivos em pastas por extensão usando Python.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py">
+        <img src="https://img.shields.io/badge/-The%20Sims%20(POO)-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+        <br/>
+        🕹️ <strong>The Sims (com POO)</strong>
+      </a>
+      <br/>
+      <sub>Mini jogo com interações básicas inspirado em The Sims. Desenvolvido em Python aplicando POO.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples">
+        <img src="https://img.shields.io/badge/-Calculadora%20Simples-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+        <br/>
+        🧮 <strong>Calculadora Simples</strong>
+      </a>
+      <br/>
+      <sub>Calculadora funcional desenvolvida com HTML, CSS e JavaScript.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados">
+        <img src="https://img.shields.io/badge/-Catálogo%20de%20Jogos-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
+        <br/>
+        🎮 <strong>Catálogo de Jogos Zerados</strong>
+      </a>
+      <br/>
+      <sub>Site simples para listar os jogos finalizados pelo usuário. Feito com HTML, CSS e JavaScript.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--Java/tree/main/Gerenciador%20de%20despesas">
+        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Despesas-brown?style=for-the-badge&logo=java&logoColor=white" />
+        <br/>
+        💵 <strong>Gerenciador de Despesas</strong>
+      </a>
+      <br/>
+      <sub>Aplicação em Java para organizar e acompanhar gastos pessoais.</sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
