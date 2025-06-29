@@ -109,6 +109,15 @@ HTML5 · CSS3 · JavaScript · Python · Java · VSCode · PyCharm
       <br/>
       <sub>Aplicação em Java para organizar e acompanhar gastos pessoais.</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/jogo-da-forca-java-poo">
+        <img src="https://img.shields.io/badge/-Jogo%20da%20Forca-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <br/>
+        🪓 <strong>Jogo da Forca com Java</strong>
+      </a>
+      <br/>
+      <sub>Jogo da forca clássico no console, com foco total em Programação Orientada a Objetos (POO).</sub>
+    </td>
   </tr>
 </table>
 
