@@ -1,4 +1,4 @@
-# 👨‍💻 Otávio Guedes - Estudante de Engenharia de Software | Dev Back-end em formação
+# 👨‍💻 Otávio Guedes - Estudante de Engenharia de Software | Foco em Dev Back-end
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
