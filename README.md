@@ -49,9 +49,6 @@ Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre e
   </tr>
 </table>
 
-**Principais tecnologias:**  
-Python · Java · HTML5 · CSS3 · JavaScript · VSCode · PyCharm
-
 ---
 
 ### 🚀 Meus projetos preferidos
