@@ -45,9 +45,13 @@ Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre e
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
       <br>PyCharm
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
+      <br>IntelliJ IDEA
     </td>
   </tr>
 </table>
+
 
 ---
 
