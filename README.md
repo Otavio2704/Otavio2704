@@ -13,6 +13,10 @@ Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre e
 
 ---
 
+<img src="https://raw.githubusercontent.com/PandaLoko27/PandaLoko27/output/snake.svg" alt="Snake animation" />
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <table align="center">
