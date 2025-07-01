@@ -129,7 +129,7 @@ Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre e
       <sub>Aplicação em Java para organizar e acompanhar gastos pessoais.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/jogo-da-forca-java-poo">
+      <a href="https://github.com/PandaLoko27/JogoForca--JAVA">
         <img src="https://img.shields.io/badge/-Jogo%20da%20Forca-007396?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
         🪓 <strong>Jogo da Forca com Java</strong>
