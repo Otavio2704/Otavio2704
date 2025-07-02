@@ -15,7 +15,7 @@ Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre e
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<table align="center">
+<table align="center" style="background-color: white;">
   <tr>
     <th>💻 Back-end</th>
     <th>🎨 Front-end</th>
