@@ -2,14 +2,14 @@
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
-💻 Em constante aprendizado: Python, Java, HTML, CSS, JavaScript e mais!
+💻 Em constante aprendizado: Python, Java e mais!!
 
 ---
 
 ### 🧠 Sobre mim
 
 Sou estudante de **Engenharia de Software**, entusiasta da programação e da tecnologia como ferramenta de transformação social.  
-Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre explorando novas linguagens e ferramentas.
+Tenho foco **Back-end**, mas tenho experiÊncia básica em **Front-end**. Estou sempre explorando novas linguagens e ferramentas.
 
 ---
 
