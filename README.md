@@ -66,7 +66,7 @@ Tenho foco **Back-end**, mas tenho experiÊncia em **Front-end**. Estou sempre e
 
 ---
 
-### 🚀 Meus projetos preferidos
+### 🚀 Meus melhores projetos
 
 <table>
   <tr>
