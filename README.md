@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 
 Sou estudante de **Engenharia de Software**, entusiasta da programação e da tecnologia como ferramenta de transformação social.  
-Tenho foco **Back-end**, mas tenho experiÊncia básica em **Front-end**. Estou sempre explorando novas linguagens e ferramentas.
+Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou sempre explorando novas linguagens e ferramentas.
 
 ---
 
