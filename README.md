@@ -167,7 +167,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/otávio-araújo-aredes-guedes-ab44a4248/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/otávio-guedes-27042007og/)  
 📬 [Me envie um e-mail](mailto:otavioaredes62@gmail.com)
 
 ---
