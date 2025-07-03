@@ -20,6 +20,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
     <th>💻 Back-end</th>
     <th>🎨 Front-end</th>
     <th>🧰 IDE's</th>
+    <th>⚙️ Build Tools</th>
     <th>🧪 Outras Tecnologias</th>
   </tr>
   <tr>
@@ -51,6 +52,14 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
       <br>IntelliJ IDEA
     </td>
     <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle logo" />
+  <br>Gradle
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" height="40" alt="Maven logo" />
+  <br>Maven
+    </td>
+
+  <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT logo" />
       <br>ChatGPT
       <br><br>
