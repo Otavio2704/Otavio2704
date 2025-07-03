@@ -62,7 +62,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
       <br>Windows
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Gradle_logo.svg" height="40" alt="Gradle logo" />
+      <img src="https://gradle.org/images/gradle-logo.png" height="40" alt="Gradle logo" />
       <br>Gradle
       <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" height="40" alt="Maven logo" />
