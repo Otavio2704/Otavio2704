@@ -111,13 +111,13 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Calculadora%20Simples">
-        <img src="https://img.shields.io/badge/-Calculadora%20Simples-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+      <a href="https://github.com/PandaLoko27/Sistema_de_Gerenciamento_de_Pacientes---Java">
+        <img src="https://img.shields.io/badge/-Sistema de Gerenciamento de pacientes%20Simples-e34c26?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
-        🧮 <strong>Calculadora Simples</strong>
+        🏥 <strong>CSistema de Gerenciamento de pacientes</strong>
       </a>
       <br/>
-      <sub>Calculadora funcional desenvolvida com HTML, CSS e JavaScript.</sub>
+      <sub>Sistema simples em Java para gerenciamento de pacientes internados em uma clínica</sub>
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados">
