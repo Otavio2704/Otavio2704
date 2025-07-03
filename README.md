@@ -65,7 +65,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle logo" />
       <br>Gradle
       <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" height="40" alt="Maven logo" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" height="40" alt="Maven logo" />
       <br>Maven
     </td>
   </tr>
