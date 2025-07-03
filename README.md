@@ -93,7 +93,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
         🏦 <strong>Sistema Bancário com Java</strong>
       </a>
       <br/>
-      <sub>Simulação de um banco simples, feito com Java para praticar Programação Orientada a Objetos (POO).</sub>
+      <sub>Simulação de um banco simples, feito com Java.</sub>
     </td>
   </tr>
   <tr>
