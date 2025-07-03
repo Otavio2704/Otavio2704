@@ -113,7 +113,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
         🕹️ <strong>The Sims (com POO)</strong>
       </a>
       <br/>
-      <sub>Mini jogo com interações básicas inspirado em The Sims. Desenvolvido em Python aplicando POO.</sub>
+      <sub>Mini jogo com interações básicas inspirado em The Sims.</sub>
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
         🎮 <strong>Catálogo de Jogos Zerados</strong>
       </a>
       <br/>
-      <sub>Site simples para listar os jogos finalizados pelo usuário. Feito com HTML, CSS e JavaScript.</sub>
+      <sub>Site simples para listar os jogos finalizados pelo usuário.</sub>
     </td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
         🪓 <strong>Jogo da Forca com Java</strong>
       </a>
       <br/>
-      <sub>Jogo da forca clássico no console, com foco total em Programação Orientada a Objetos (POO).</sub>
+      <sub>Jogo da forca clássico no console.</sub>
     </td>
   </tr>
 </table>
