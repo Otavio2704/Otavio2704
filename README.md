@@ -84,7 +84,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
         🎰 <strong>Simulador de BETS</strong>
       </a>
       <br/>
-      <sub>Simula um caça-níquel com visual moderno de cassino. O objetivo é mostrar como os jogos de azar manipulam o comportamento do jogador — começa com ganhos e termina em perdas totais.</sub>
+      <sub>Simula um caça-níquel com visual moderno de cassino.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
