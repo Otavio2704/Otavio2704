@@ -114,7 +114,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
       <a href="https://github.com/PandaLoko27/Sistema_de_Gerenciamento_de_Pacientes---Java">
         <img src="https://img.shields.io/badge/-Sistema de Gerenciamento de pacientes%20Simples-e34c26?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
-        🏥 <strong>CSistema de Gerenciamento de pacientes</strong>
+        🏥 <strong>Sistema de Gerenciamento de pacientes</strong>
       </a>
       <br/>
       <sub>Sistema simples em Java para gerenciamento de pacientes internados em uma clínica</sub>
