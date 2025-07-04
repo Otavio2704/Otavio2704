@@ -16,92 +16,10 @@ Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e i
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="center" style="background-color: white; padding: 20px; border-radius: 10px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; max-width: 900px;">
-    
-    <div style="text-align: center; min-width: 120px;">
-      <h4>💻 Back-end</h4>
-      <div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-          <div>Python</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-          <div>Java</div>
-        </div>
-      </div>
-    </div>
+| 💻 Back-end                                    | 🎨 Front-end                                    | 🧰 IDE's                                          | 🧪 Outras Tecnologias                           | ⚙️ Build Tools                  |
+|-----------------------------------------------|------------------------------------------------|--------------------------------------------------|------------------------------------------------|--------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> CSS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/> VSCode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/> PyCharm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/> IntelliJ IDEA | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/> Windows &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> Docker | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40"/> Gradle &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40"/> Maven |
 
-    <div style="text-align: center; min-width: 120px;">
-      <h4>🎨 Front-end</h4>
-      <div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-          <div>HTML5</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-          <div>CSS3</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-          <div>JavaScript</div>
-        </div>
-      </div>
-    </div>
-
-    <div style="text-align: center; min-width: 120px;">
-      <h4>🧰 IDE's</h4>
-      <div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-          <div>VSCode</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
-          <div>PyCharm</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
-          <div>IntelliJ IDEA</div>
-        </div>
-      </div>
-    </div>
-
-    <div style="text-align: center; min-width: 120px;">
-      <h4>🧪 Outras Tecnologias</h4>
-      <div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-          <div>GitHub</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
-          <div>Windows</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-          <div>Docker</div>
-        </div>
-      </div>
-    </div>
-
-    <div style="text-align: center; min-width: 120px;">
-      <h4>⚙️ Build Tools</h4>
-      <div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle logo" />
-          <div>Gradle</div>
-        </div>
-        <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven logo" />
-          <div>Maven</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 ---
 
