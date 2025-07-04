@@ -169,6 +169,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e i
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&layout=compact&theme=merko" alt="Top linguagens" />
     <br><br>
+    <br><br>
     <strong>Visitas no perfil</strong>
     <br></br>
     <img src="https://profile-counter.glitch.me/PandaLoko27/count.svg" alt="Visitantes do perfil" />
