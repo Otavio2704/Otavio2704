@@ -21,61 +21,6 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 
 <div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th>💻<br>Back-end</th>
-      <th>🎨<br>Front-end</th>
-      <th>🧰<br>IDE's</th>
-      <th>🧪<br>Outras Tecnologias</th>
-      <th>⚙️<br>Build Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML5
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS3
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/><br>VSCode
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/><br>PyCharm
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/><br>IntelliJ IDEA
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="ChatGPT"/><br>ChatGPT
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br>GitHub
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/><br>Windows
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" height="40" alt="Gradle"/><br>Gradle
-        <br><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="70" height="40" alt="Maven"/><br>Maven
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
 <table style="background-color: white; border-collapse: collapse;">
   <thead>
     <tr>
