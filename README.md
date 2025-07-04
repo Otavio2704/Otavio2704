@@ -97,7 +97,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/OrganizadorDeArquivos.py">
+      <a href="https://github.com/PandaLoko27/Organizador-de-Arquivos-PYTHON-">
         <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
         <br/>
         🔧 <strong>Organizador de Arquivos</strong>
@@ -106,7 +106,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
       <sub>Organiza automaticamente arquivos em pastas por extensão usando Python.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--PYTHON-/blob/main/TheSims.py">
+      <a href="https://github.com/PandaLoko27/TheSims-PYTHON">
         <img src="https://img.shields.io/badge/-The%20Sims%20(POO)-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
         <br/>
         🕹️ <strong>The Sims (com POO)</strong>
@@ -137,7 +137,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--Java/tree/main/Gerenciador%20de%20despesas">
+      <a href="https://github.com/PandaLoko27/GerenciadorDeDespesas-JAVA">
         <img src="https://img.shields.io/badge/-Gerenciador%20de%20Despesas-brown?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
         💵 <strong>Gerenciador de Despesas</strong>
