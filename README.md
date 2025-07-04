@@ -126,7 +126,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
       <sub>Sistema simples em Java para gerenciamento de pacientes internados em uma clínica</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/MyOwnLilCodes--HTML-CSS/tree/main/Catalogo%20de%20jogos%20zerados">
+      <a href="https://github.com/PandaLoko27/Catalogo-de-jogos-zerados--HTML-CSS-JS">
         <img src="https://img.shields.io/badge/-Catálogo%20de%20Jogos-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
         <br/>
         🎮 <strong>Catálogo de Jogos Zerados</strong>
