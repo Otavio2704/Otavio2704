@@ -162,17 +162,19 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
 
 ### 📊 Minhas Estatísticas no GitHub
 
+### 📊 Minhas Estatísticas no GitHub
+
 <table>
   <tr>
     <td>
       <img src="https://streak-stats.demolab.com?user=PandaLoko27&theme=merko&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="GitHub Streak" />
-      <br>
+      <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&layout=compact&theme=merko" alt="Top linguagens" />
-      <br>
+      <br><br>
       <img src="https://komarev.com/ghpvc/?username=PandaLoko27&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=green" alt="Contador de visitas" />
     </td>
-    <td>
-      <img src="./profile-night-view.svg" width="500" height="500"/>
+    <td align="center">
+      <img src="./assets/profile-night-view.svg" width="500" height="500" alt="Animação do perfil noturno" />
     </td>
   </tr>
 </table>
