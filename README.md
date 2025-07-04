@@ -166,8 +166,6 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&layout=compact&theme=merko)](https://github.com/PandaLoko27/github-readme-stats)
 
-<img src="./profile-3d-contrib/profile-night-view.svg"/>
-
 ![Visitantes](https://komarev.com/ghpvc/?username=PandaLoko27&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=green)
 
 ---
