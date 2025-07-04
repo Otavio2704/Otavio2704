@@ -19,61 +19,56 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<table align="center" style="background-color: white;">
-  <tr>
-    <th>💻 Back-end</th>
-    <th>🎨 Front-end</th>
-    <th>🧰 IDE's</th>
-    <th>🧪 Outras Tecnologias</th>
-    <th>⚙️ Build Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-      <br>Python
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-      <br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-      <br>HTML5
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-      <br>CSS3
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-      <br>VSCode
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
-      <br>PyCharm
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
-      <br>IntelliJ IDEA
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT logo" />
-      <br>ChatGPT
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-      <br>GitHub
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
-      <br>Windows
-    </td>
-    <td align="center">
-      <img src="https://gradle.org/images/gradle-logo.png" height="40" alt="Gradle logo" />
-      <br>Gradle
-      <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" height="40" alt="Maven logo" />
-      <br>Maven
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>💻<br>Back-end</th>
+      <th>🎨<br>Front-end</th>
+      <th>🧰<br>IDE's</th>
+      <th>🧪<br>Outras Tecnologias</th>
+      <th>⚙️<br>Build Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML5
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS3
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/><br>VSCode
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/><br>PyCharm
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/><br>IntelliJ IDEA
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="ChatGPT"/><br>ChatGPT
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br>GitHub
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/><br>Windows
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="40" height="40" alt="Gradle"/><br>Gradle
+        <br><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="70" height="40" alt="Maven"/><br>Maven
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+</div>
 
 ---
 
