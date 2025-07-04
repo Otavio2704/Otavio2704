@@ -118,7 +118,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
   <tr>
     <td align="center">
       <a href="https://github.com/PandaLoko27/Sistema_de_Gerenciamento_de_Pacientes---Java">
-        <img src="https://img.shields.io/badge/-Sistema de Gerenciamento de pacientes%20Simples-e34c26?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Sistema de Gerenciamento de pacientes-e34c26?style=for-the-badge&logo=java&logoColor=white" />
         <br/>
         🏥 <strong>Sistema de Gerenciamento de pacientes</strong>
       </a>
