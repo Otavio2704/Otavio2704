@@ -162,8 +162,6 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
 
 ### 📊 Minhas Estatísticas no GitHub
 
-### 📊 Minhas Estatísticas no GitHub
-
 <table>
   <tr>
     <td>
@@ -174,7 +172,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
       <img src="https://komarev.com/ghpvc/?username=PandaLoko27&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=green" alt="Contador de visitas" />
     </td>
     <td>
-      <img src="./profile-night-view.svg" width="500" height="500" alt="Animação do perfil noturno" />
+      <img src="./profile-night-view.svg" width="500" height="500"/>
     </td>
   </tr>
 </table>
