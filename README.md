@@ -162,10 +162,6 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
 
 ### 📊 Minhas Estatísticas no GitHub
 
-### 📊 Minhas Estatísticas no GitHub
-
-### 📊 Minhas Estatísticas no GitHub
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
     <img src="https://streak-stats.demolab.com?user=PandaLoko27&theme=merko&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="GitHub Streak" />
