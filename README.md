@@ -1,4 +1,4 @@
-# 👨‍💻 Otávio Guedes - Estudante de Engenharia de Software | Dev Back-end
+# 👨‍💻 Otávio Guedes - Estudante de Engenharia de Software | Desenvolvedor Back-end
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
@@ -9,68 +9,70 @@
 ### 🧠 Sobre mim
 
 Sou estudante de **Engenharia de Software**, entusiasta da programação e da tecnologia como ferramenta de transformação social.  
-Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou sempre explorando novas linguagens e ferramentas.
+Tenho foco em **Desenvolvimento Back-end**, com experiência básica em **Front-end**.  
+Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e inovadores, além de expandir meu repertório com novas linguagens e ferramentas.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<table align="center" style="background-color: white;">
-  <tr>
-    <th>💻 Back-end</th>
-    <th>🎨 Front-end</th>
-    <th>🧰 IDE's</th>
-    <th>🧪 Outras Tecnologias</th>
-    <th>⚙️ Build Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-      <br>Python
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-      <br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-      <br>HTML5
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-      <br>CSS3
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-      <br>VSCode
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
-      <br>PyCharm
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
-      <br>IntelliJ IDEA
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT logo" />
-      <br>ChatGPT
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-      <br>GitHub
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
-      <br>Windows
-    </td>
-    <td align="center">
-      <img src="https://gradle.org/images/gradle-logo.png" height="40" alt="Gradle logo" />
-      <br>Gradle
-      <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" height="40" alt="Maven logo" />
-      <br>Maven
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; background-color: white; padding: 20px; border-radius: 10px;">
 
+  <div align="center" style="min-width: 100px;">
+    <h4>💻 Back-end</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+    <br>Python
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+    <br>Java
+  </div>
+
+  <div align="center" style="min-width: 100px;">
+    <h4>🎨 Front-end</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+    <br>HTML5
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+    <br>CSS3
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+    <br>JavaScript
+  </div>
+
+  <div align="center" style="min-width: 100px;">
+    <h4>🧰 IDE's</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
+    <br>VSCode
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
+    <br>PyCharm
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
+    <br>IntelliJ IDEA
+  </div>
+
+  <div align="center" style="min-width: 100px;">
+    <h4>🧪 Outras Tecnologias</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+    <br>GitHub
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
+    <br>Windows
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+    <br>Docker
+  </div>
+
+  <div align="center" style="min-width: 100px;">
+    <h4>⚙️ Build Tools</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle logo" />
+    <br>Gradle
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven logo" />
+    <br>Maven
+  </div>
+
+</div>
 ---
 
 ### 🚀 Meus melhores projetos
