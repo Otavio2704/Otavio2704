@@ -72,7 +72,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Linguagens que mais uso
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
