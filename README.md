@@ -174,7 +174,7 @@ Tenho foco **Back-end**, mas tenho experiência básica em **Front-end**. Estou 
       <img src="https://komarev.com/ghpvc/?username=PandaLoko27&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=green" alt="Contador de visitas" />
     </td>
     <td>
-      <img src="./assets/profile-night-view.svg" width="300" />
+      <img src="./profile-night-view.svg" width="500" height="500" alt="Animação do perfil noturno" />
     </td>
   </tr>
 </table>
