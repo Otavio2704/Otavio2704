@@ -168,11 +168,6 @@ Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e i
     <img src="https://streak-stats.demolab.com?user=PandaLoko27&theme=merko&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="GitHub Streak" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&langs_count=8&layout=compact&theme=merko" alt="Top linguagens" />
-    <br><br>
-    <br><br>
-    <strong>Visitas no perfil: </strong>
-    <br></br>
-    <img src="https://profile-counter.glitch.me/PandaLoko27/count.svg" alt="Visitantes do perfil" />
   </div>
 </div>
 
