@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="250"/>
+</p>
+
 # 👨‍💻 Otávio Guedes - Estudante de Engenharia de Software | Desenvolvedor Back-end
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
@@ -177,7 +181,3 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 ---
 
 > “A tecnologia move o mundo. O que você criar com ela pode mover pessoas.” 🌍
-
-<p align="right">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="120"/>
-</p>
