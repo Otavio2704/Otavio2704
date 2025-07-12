@@ -179,5 +179,5 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 > “A tecnologia move o mundo. O que você criar com ela pode mover pessoas.” 🌍
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
+  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="120"/>
 </p>
