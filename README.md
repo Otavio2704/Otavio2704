@@ -23,6 +23,8 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 
 ### 🛠️ Tecnologias & Ferramentas
 
+### 🛠️ Tecnologias & Ferramentas
+
 <div align="center">
 
 <table style="background-color: white; border-collapse: collapse;">
@@ -33,6 +35,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
       <th>🧰 IDE's</th>
       <th>🧪 Outras Tecnologias</th>
       <th>⚙️ Build Tools</th>
+      <th>📚 Frameworks</th>
     </tr>
   </thead>
   <tbody>
@@ -67,6 +70,9 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
         <img src="https://gradle.org/images/gradle-logo.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
         <br><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
       </td>
     </tr>
   </tbody>
