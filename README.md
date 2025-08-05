@@ -23,8 +23,6 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 
 ### 🛠️ Tecnologias & Ferramentas
 
-### 🛠️ Tecnologias & Ferramentas
-
 <div align="center">
 
 <table style="background-color: white; border-collapse: collapse;">
