@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" width="250"/>
-</p>
-
-# 👨‍💻 Otávio Guedes - Estudante de Engenharia de Software | Desenvolvedor Back-end
+# 👨‍💻 Otávio Guedes - Desenvolvedor Back-end
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
