@@ -2,7 +2,7 @@
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
-💻 Em constante aprendizado: Python, Java e mais!!
+💻 Em constante aprendizado: Java, Spring Boot e mais!!
 
 ---
 
@@ -26,10 +26,10 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
     <tr>
       <th>💻 Back-end</th>
       <th>🎨 Front-end</th>
+      <th>📚 Frameworks</th>
       <th>🧰 IDE's</th>
       <th>🧪 Outras Tecnologias</th>
       <th>⚙️ Build Tools</th>
-      <th>📚 Frameworks</th>
     </tr>
   </thead>
   <tbody>
@@ -47,6 +47,9 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" /><br>JavaScript
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm logo" /><br>PyCharm
@@ -54,19 +57,14 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT logo" /><br>ChatGPT
-        <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
       </td>
       <td align="center">
-        <img src="https://gradle.org/images/gradle-logo.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="50" alt="Gradle logo" /><br>Gradle
         <br><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
       </td>
     </tr>
   </tbody>
