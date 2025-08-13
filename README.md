@@ -90,12 +90,12 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 ## 🚀 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandaLoko27&show_icons=true&theme=merko&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLoko27&layout=compact&theme=merko&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio2704&show_icons=true&theme=merko&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio2704&layout=compact&theme=merko&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PandaLoko27&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false&custom_title=Gráfico%20de%20Atividades" alt="Gráfico de Atividades">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio2704&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false&custom_title=Gráfico%20de%20Atividades" alt="Gráfico de Atividades">
 </p>
 
 ---
