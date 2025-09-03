@@ -11,9 +11,9 @@
 Sou estudante de **Engenharia de Software**, entusiasta da **programação** e da **tecnologia** como ferramenta de transformação social.
 Acredito no poder do **desenvolvimento de sistemas** para impactar positivamente a vida das pessoas e enfrentar desafios do mundo real por meio de **soluções eficientes e escaláveis**.
 
-Tenho foco em **Desenvolvimento Back-end**, onde posso aplicar minha **lógica, organização e pensamento analítico** para construir aplicações robustas, seguras e bem estruturadas. Também possuo **experiência básica** em **Front-end**, o que me permite colaborar de forma mais integrada com times multidisciplinares e compreender melhor o ciclo completo do desenvolvimento de software.
+Tenho foco em **Desenvolvimento Back-end**, onde posso aplicar minha **lógica, organização e pensamento analítico** para construir aplicações robustas, seguras e bem estruturadas. Também possuo **experiência básica** em **Front-end**, o que me permite colaborar de forma mais integrada com times multidisciplinares e compreender melhor o **ciclo completo** do **desenvolvimento de software**.
 
-Estou em constante **busca por oportunidades** que me permitam aplicar meus conhecimentos em **projetos desafiadores e inovadores**. Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em equipe**, e estou sempre disposto a explorar novas linguagens, ferramentas e metodologias que ampliem meu repertório técnico e profissional.
+Estou em constante **busca por oportunidades** que me permitam aplicar meus conhecimentos em **projetos desafiadores e inovadores**. Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em equipe**, e estou sempre disposto a explorar **novas linguagens**, **ferramentas** e **metodologias** que ampliem meu repertório técnico e profissional.
 
 ---
 
