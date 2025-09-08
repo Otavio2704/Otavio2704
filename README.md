@@ -2,7 +2,7 @@
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
-💻 Em constante aprendizado: **Java, Spring Boot, APIs REST, SQL e boas práticas de desenvolvimento.**
+💻 Em constante aprendizado: **Java, Spring Boot, APIs REST e boas práticas de desenvolvimento.**
 
 ---
 
