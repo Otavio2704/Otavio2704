@@ -80,14 +80,116 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 
 ### 🚀 Meus melhores projetos
 
-🧠 Projetos Back-end
-<table> <tr> <td align="center"> <a href="https://github.com/PandaLoko27/SimuladorDeBETS"> <img src="https://img.shields.io/badge/-Simulador%20de%20BETS-111?style=for-the-badge&logo=python&logoColor=white" /> <br/> 🎰 <strong>Simulador de BETS</strong> </a> <br/> <sub>Simula um caça-níquel com visual moderno de cassino.</sub> </td> <td align="center"> <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo"> <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <br/> 🏦 <strong>Sistema Bancário com Java</strong> </a> <br/> <sub>Simulação de um banco simples, feito com Java.</sub> </td> </tr> <tr> <td align="center"> <a href="https://github.com/PandaLoko27/Organizador-de-Arquivos-PYTHON-"> <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" /> <br/> 🔧 <strong>Organizador de Arquivos</strong> </a> <br/> <sub>Organiza automaticamente arquivos em pastas por extensão usando Python.</sub> </td> <td align="center"> <a href="https://github.com/PandaLoko27/TheSims-PYTHON"> <img src="https://img.shields.io/badge/-The%20Sims%20(POO)-brightgreen?style=for-the-badge&logo=python&logoColor=white" /> <br/> 🕹️ <strong>The Sims (com POO)</strong> </a> <br/> <sub>Mini jogo com interações básicas inspirado em The Sims.</sub> </td> </tr> <tr> <td align="center"> <a href="https://github.com/PandaLoko27/Sistema_de_Gerenciamento_de_Pacientes---Java"> <img src="https://img.shields.io/badge/-Sistema de Gerenciamento de pacientes-e34c26?style=for-the-badge&logo=java&logoColor=white" /> <br/> 🏥 <strong>Sistema de Gerenciamento de Pacientes</strong> </a> <br/> <sub>Sistema simples em Java para gerenciamento de pacientes internados.</sub> </td> <td align="center"> <a href="https://github.com/PandaLoko27/GerenciadorDeDespesas-JAVA"> <img src="https://img.shields.io/badge/-Gerenciador%20de%20Despesas-brown?style=for-the-badge&logo=java&logoColor=white" /> <br/> 💵 <strong>Gerenciador de Despesas</strong> </a> <br/> <sub>Aplicação em Java para organizar e acompanhar gastos pessoais.</sub> </td> </tr> <tr> <td align="center"> <a href="https://github.com/PandaLoko27/JogoForca--JAVA"> <img src="https://img.shields.io/badge/-Jogo%20da%20Forca-007396?style=for-the-badge&logo=java&logoColor=white" /> <br/> 🪓 <strong>Jogo da Forca com Java</strong> </a> <br/> <sub>Jogo da forca clássico no console.</sub> </td> <td></td> </tr> </table>
+🧠 **Projetos Back-end**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/SimuladorDeBETS">
+        <img src="https://img.shields.io/badge/-Simulador%20de%20BETS-111?style=for-the-badge&logo=python&logoColor=white" />
+        <br/> 🎰 <strong>Simulador de BETS</strong>
+      </a>
+      <br/>
+      <sub>Simula um caça-níquel com visual moderno de cassino.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
+        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 🏦 <strong>Sistema Bancário com Java</strong>
+      </a>
+      <br/>
+      <sub>Simulação de um banco simples, feito com Java.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/Organizador-de-Arquivos-PYTHON-">
+        <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
+        <br/> 🔧 <strong>Organizador de Arquivos</strong>
+      </a>
+      <br/>
+      <sub>Organiza automaticamente arquivos em pastas por extensão usando Python.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/TheSims-PYTHON">
+        <img src="https://img.shields.io/badge/-The%20Sims%20(POO)-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+        <br/> 🕹️ <strong>The Sims (com POO)</strong>
+      </a>
+      <br/>
+      <sub>Mini jogo com interações básicas inspirado em The Sims.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/Sistema_de_Gerenciamento_de_Pacientes---Java">
+        <img src="https://img.shields.io/badge/-Sistema de Gerenciamento de pacientes-e34c26?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 🏥 <strong>Sistema de Gerenciamento de Pacientes</strong>
+      </a>
+      <br/>
+      <sub>Sistema simples em Java para gerenciamento de pacientes internados.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/GerenciadorDeDespesas-JAVA">
+        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Despesas-brown?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 💵 <strong>Gerenciador de Despesas</strong>
+      </a>
+      <br/>
+      <sub>Aplicação em Java para organizar e acompanhar gastos pessoais.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/JogoForca--JAVA">
+        <img src="https://img.shields.io/badge/-Jogo%20da%20Forca-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 🪓 <strong>Jogo da Forca com Java</strong>
+      </a>
+      <br/>
+      <sub>Jogo da forca clássico no console.</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-🎨 Projetos Front-end
-<table> <tr> <td align="center"> <a href="https://github.com/PandaLoko27/Catalogo-de-jogos-zerados--HTML-CSS-JS"> <img src="https://img.shields.io/badge/-Catálogo%20de%20Jogos-ff5722?style=for-the-badge&logo=javascript&logoColor=white" /> <br/> 🎮 <strong>Catálogo de Jogos Zerados</strong> </a> <br/> <sub>Site simples para listar os jogos finalizados pelo usuário.</sub> </td> </tr> </table>
+🎨 **Projetos Front-end**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/Catalogo-de-jogos-zerados--HTML-CSS-JS">
+        <img src="https://img.shields.io/badge/-Catálogo%20de%20Jogos-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
+        <br/> 🎮 <strong>Catálogo de Jogos Zerados</strong>
+      </a>
+      <br/>
+      <sub>Site simples para listar os jogos finalizados pelo usuário.</sub>
+    </td>
+  </tr>
+</table>
 
-🔌 Projetos de API’s
-<table> <tr> <td align="center"> <a href="https://github.com/PandaLoko27/AcademiaGYM--APIrest"> <img src="https://img.shields.io/badge/-API%20AcademiaGYM-6DB33F?style=for-the-badge&logo=spring&logoColor=pink" /> <br/> 🏋️‍♂️ <strong>Academia de ginástica - API REST</strong> </a> <br/> <sub>API RESTful com Spring Boot para controle de alunos, treinos e matrículas de uma academia de ginástica.</sub> </td> </tr> </table>
+🔌 **Projetos de API’s**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PandaLoko27/AcademiaGYM--APIrest">
+        <img src="https://img.shields.io/badge/-API%20AcademiaGYM-6DB33F?style=for-the-badge&logo=spring&logoColor=pink" />
+        <br/> 🏋️‍♂️ <strong>Academia de ginástica - API REST</strong>
+      </a>
+      <br/>
+      <sub>API RESTful com Spring Boot para controle de alunos, treinos e matrículas de uma academia de ginástica.</sub>
+    </td>
+  </tr>
+</table>
+
+💾 **Banco de dados**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/BancoDeDados--Ecommerce--PostgreSQL">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" width="40"/>
+        <br/> 🛒 <strong>Banco de dados E-commerce</strong>
+      </a>
+      <br/>
+      <sub>Sistema completo de banco de dados para e-commerce com PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
