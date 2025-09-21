@@ -21,47 +21,51 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
 
 <div align="center">
 
-<table style="background-color: white; border-collapse: collapse;">
+<table style="background-color: white; border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th>💻 Back-end</th>
-      <th>🎨 Front-end</th>
-      <th>📚 Frameworks</th>
-      <th>🧰 IDE's</th>
-      <th>🧪 Outras Tecnologias</th>
-      <th>⚙️ Build Tools</th>
+      <th width="14%">💻 Back-end</th>
+      <th width="14%">🎨 Front-end</th>
+      <th width="14%">📚 Frameworks</th>
+      <th width="14%">🧰 IDE's</th>
+      <th width="14%">🗄️ Banco de Dados</th>
+      <th width="14%">🧪 Outras Tecnologias</th>
+      <th width="14%">⚙️ Build Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" width="14%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
       </td>
-      <td align="center">
+      <td align="center" width="14%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" /><br>HTML5
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" /><br>CSS3
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" /><br>JavaScript
       </td>
-      <td align="center">
+      <td align="center" width="14%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
       </td>
-      <td align="center">
+      <td align="center" width="14%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm logo" /><br>PyCharm
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
       </td>
-      <td align="center">
+      <td align="center" width="14%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
+      </td>
+      <td align="center" width="14%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
       </td>
-      <td align="center">
+      <td align="center" width="14%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="50" alt="Gradle logo" /><br>Gradle
         <br><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
