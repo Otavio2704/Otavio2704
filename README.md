@@ -182,7 +182,7 @@ Estou em constante **busca por oportunidades** que me permitam aplicar meus conh
   <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/BancoDeDados--Ecommerce--PostgreSQL">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
         <br/> 🛒 <strong>Banco de dados E-commerce</strong>
       </a>
       <br/>
