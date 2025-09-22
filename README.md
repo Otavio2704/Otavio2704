@@ -81,7 +81,7 @@ Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="50" alt="Gradle logo" /><br>Gradle
+        <img src="./assets/logos/Gradle.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
         <br><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
       </td>
