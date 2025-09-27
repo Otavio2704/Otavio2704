@@ -1,4 +1,4 @@
-# 👨‍💻 Otávio Guedes - Desenvolvedor Back-end
+# 🖥☕🍃 Otávio Guedes - Desenvolvedor Back-end
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
