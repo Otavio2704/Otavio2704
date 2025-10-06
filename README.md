@@ -160,7 +160,14 @@ Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em 
       <br/>
       <sub>Jogo da forca clássico no console.</sub>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/Gerenciador-de-Times-e-Jogadores">
+        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Times-green?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> ⚽ <strong>Gerenciador de Times e Jogadores</strong>
+      </a>
+      <br/>
+      <sub>Sistema completo para gerenciar times de futebol com persistência de dados.</sub>
+    </td>
   </tr>
 </table>
 
@@ -178,7 +185,7 @@ Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em 
   </tr>
 </table>
 
-🔌 **Projetos de API’s**
+🔌 **Projetos de API's**
 <table>
   <tr>
     <td align="center">
@@ -228,4 +235,4 @@ Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em 
 
 ---
 
-> “A tecnologia move o mundo. O que você criar com ela pode mover pessoas.” 🌍
+> "A tecnologia move o mundo. O que você criar com ela pode mover pessoas." 🌍
