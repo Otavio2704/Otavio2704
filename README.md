@@ -29,14 +29,15 @@ Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em 
 <table style="background-color: white; border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th width="12%">💻 Back-end</th>
-      <th width="12%">🎨 Front-end</th>
-      <th width="12%">📚 Frameworks</th>
-      <th width="12%">🧪 Testes Unitários</th>
-      <th width="12%">🧰 IDE's</th>
-      <th width="12%">🗄️ Banco de Dados</th>
-      <th width="12%">🧪 Outras Tecnologias</th>
-      <th width="12%">⚙️ Build Tools</th>
+      <th width="11%">💻 Back-end</th>
+      <th width="11%">🎨 Front-end</th>
+      <th width="11%">📚 Frameworks</th>
+      <th width="11%">🧪 Testes Unitários</th>
+      <th width="11%">🧰 IDE's</th>
+      <th width="11%">🗄️ Banco de Dados</th>
+      <th width="11%">🧪 Outras Tecnologias</th>
+      <th width="11%">⚙️ Build Tools</th>
+      <th width="12%">🎯 Em Aprendizado</th>
     </tr>
   </thead>
   <tbody>
@@ -84,6 +85,13 @@ Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em 
         <img src="./assets/logos/Gradle.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
         <br><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
+      </td>
+      <td align="center">
+        <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
+        <br><br>
+        <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
+        <br><br>
+        <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
       </td>
     </tr>
   </tbody>
