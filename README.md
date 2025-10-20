@@ -17,8 +17,7 @@ Tenho experiência prática em **testes automatizados** utilizando **JUnit** e *
 Possuo experiência prática em **SQL**, especialmente com **PostgreSQL**, o que me permite trabalhar com **bancos de dados relacionais**, otimizar **consultas** e garantir a **integridade dos dados**.  
 Também possuo experiência básica em **Front-end**, o que me permite colaborar de forma mais integrada com **times multidisciplinares** e compreender melhor o **ciclo completo do desenvolvimento de software**.
 
-Estou em constante busca por **oportunidades** que me permitam aplicar meus **conhecimentos** em projetos **desafiadores** e **inovadores**.  
-Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em equipe**, e estou sempre disposto a explorar novas **linguagens**, **ferramentas** e **metodologias** que ampliem meu **repertório técnico e profissional**.
+Estou em constante busca por **oportunidades** que me permitam aplicar meus **conhecimentos** em projetos **desafiadores** e **inovadores**. Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em equipe**, e estou sempre disposto a explorar novas **linguagens**, **ferramentas** e **metodologias** que ampliem meu **repertório técnico e profissional**.
 
 ---
 
@@ -76,6 +75,8 @@ Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em 
         <img src="./assets/logos/ChatGPT.png" width="50" height="50" alt="ChatGPT logo" /><br>ChatGPT
         <br><br>
         <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
         <br><br>
