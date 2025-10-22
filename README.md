@@ -219,8 +219,17 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
       <br/>
       <sub>Sistema completo de banco de dados para e-commerce com PostgreSQL</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/BancoDeDados--Oficina--PostgreSQL">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+        <br/> 🔧 <strong>Banco de dados Oficina</strong>
+      </a>
+      <br/>
+      <sub>Modelo de banco de dados para gestão de uma oficina mecânica com PostgreSQL.</sub>
+    </td>
   </tr>
 </table>
+
 
 ---
 
