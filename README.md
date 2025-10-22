@@ -28,15 +28,16 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
 <table style="background-color: white; border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th width="11%">💻 Back-end</th>
-      <th width="11%">🎨 Front-end</th>
-      <th width="11%">📚 Frameworks</th>
-      <th width="11%">🧪 Testes Unitários</th>
-      <th width="11%">🧰 IDE's</th>
-      <th width="11%">🗄️ Banco de Dados</th>
-      <th width="11%">🧪 Outras Tecnologias</th>
-      <th width="11%">⚙️ Build Tools</th>
-      <th width="12%">🎯 Em Aprendizado</th>
+      <th width="10%">💻 Back-end</th>
+      <th width="10%">🎨 Front-end</th>
+      <th width="10%">📚 Frameworks</th>
+      <th width="10%">🧪 Testes Unitários</th>
+      <th width="10%">🧰 IDE's</th>
+      <th width="10%">🗄️ Banco de Dados</th>
+      <th width="10%">🧪 Outras Tecnologias</th>
+      <th width="10%">⚙️ Build Tools</th>
+      <th width="10%">☁️ Nuvem/DevOps</th>
+      <th width="10%">🎯 Em Aprendizado</th>
     </tr>
   </thead>
   <tbody>
@@ -89,7 +90,8 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
       </td>
       <td align="center">
         <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
-        <br><br>
+      </td>
+      <td align="center">
         <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
         <br><br>
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
