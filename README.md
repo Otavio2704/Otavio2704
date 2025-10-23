@@ -77,8 +77,6 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
         <br><br>
         <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
-        <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
@@ -90,6 +88,8 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
       </td>
       <td align="center">
         <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
       </td>
       <td align="center">
         <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
