@@ -34,7 +34,7 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
       <th width="10%">🧪 Testes Unitários</th>
       <th width="10%">🧰 IDE's</th>
       <th width="10%">🗄️ Banco de Dados</th>
-      <th width="10%">☁️ Nuvem/DevOps</th>
+      <th width="10%">☁️ DevOps</th>
       <th width="10%">⚙️ Build Tools</th>
       <th width="10%">🧪 Outras Tecnologias</th>
       <th width="10%">🎯 Em Aprendizado</th>
