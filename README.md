@@ -34,9 +34,9 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
       <th width="10%">🧪 Testes Unitários</th>
       <th width="10%">🧰 IDE's</th>
       <th width="10%">🗄️ Banco de Dados</th>
-      <th width="10%">🧪 Outras Tecnologias</th>
-      <th width="10%">⚙️ Build Tools</th>
       <th width="10%">☁️ Nuvem/DevOps</th>
+      <th width="10%">⚙️ Build Tools</th>
+      <th width="10%">🧪 Outras Tecnologias</th>
       <th width="10%">🎯 Em Aprendizado</th>
     </tr>
   </thead>
@@ -73,13 +73,11 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
       </td>
       <td align="center">
-        <img src="./assets/logos/ChatGPT.png" width="50" height="50" alt="ChatGPT logo" /><br>ChatGPT
+        <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
         <br><br>
-        <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
       </td>
       <td align="center">
         <img src="./assets/logos/Gradle.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
@@ -87,9 +85,11 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
       </td>
       <td align="center">
-        <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
+        <img src="./assets/logos/ChatGPT.png" width="50" height="50" alt="ChatGPT logo" /><br>ChatGPT
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
+        <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
       </td>
       <td align="center">
         <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
