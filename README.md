@@ -17,6 +17,8 @@ Tenho experiência prática em **testes automatizados** utilizando **JUnit** e *
 Possuo experiência prática em **SQL**, especialmente com **PostgreSQL**, o que me permite trabalhar com **bancos de dados relacionais**, otimizar **consultas** e garantir a **integridade dos dados**.  
 Também possuo experiência básica em **Front-end**, o que me permite colaborar de forma mais integrada com **times multidisciplinares** e compreender melhor o **ciclo completo do desenvolvimento de software**.
 
+Possuo conhecimento em **AWS**, utilizando serviços de **cloud computing** para **deploy** e **gerenciamento de aplicações**, explorando recursos como **EC2, S3** e **RDS** para criar **soluções escaláveis e confiáveis na nuvem**.
+
 Estou em constante busca por **oportunidades** que me permitam aplicar meus **conhecimentos** em projetos **desafiadores** e **inovadores**. Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em equipe**, e estou sempre disposto a explorar novas **linguagens**, **ferramentas** e **metodologias** que ampliem meu **repertório técnico e profissional**.
 
 ---
