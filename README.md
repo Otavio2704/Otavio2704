@@ -148,12 +148,12 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/Sistema_de_Gerenciamento_de_Pacientes---Java">
-        <img src="https://img.shields.io/badge/-Sistema de Gerenciamento de pacientes-e34c26?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> 🏥 <strong>Sistema de Gerenciamento de Pacientes</strong>
+      <a href="https://github.com/Otavio2704/Roguelike-Java">
+        <img src="https://img.shields.io/badge/-Roguelike%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 🗡️ <strong>Roguelike-Java</strong>
       </a>
       <br/>
-      <sub>Sistema simples em Java para gerenciamento de pacientes internados.</sub>
+      <sub>Pequeno jogo estilo roguelike feito com Java.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/GerenciadorDeDespesas-JAVA">
