@@ -87,7 +87,7 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
       </td>
       <td align="center">
-        <img src="./assets/logos/ChatGPT.png" width="50" height="50" alt="ChatGPT logo" /><br>ChatGPT
+        <img src="./assets/logos/chatgpt.png" width="50" height="50" alt="ChatGPT logo" /><br>ChatGPT
         <br><br>
         <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
         <br><br>
