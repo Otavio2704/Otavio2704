@@ -244,7 +244,7 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/otávio-guedes-27042007og/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/otavio-backend2007)  
 📬 [Me envie um e-mail](mailto:otavioaredes62@gmail.com)
 
 ---
