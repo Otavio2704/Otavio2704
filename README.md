@@ -176,7 +176,8 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
   </tr>
 </table>
 
-🎨 **Projetos Front-end**
+🎨 <strong>Projetos Front-end</strong>
+
 <table>
   <tr>
     <td align="center">
@@ -187,8 +188,6 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
       <br/>
       <sub>Meu site pessoal com projetos e informações profissionais.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/PandaLoko27/Catalogo-de-jogos-zerados--HTML-CSS-JS">
         <img src="https://img.shields.io/badge/-Catálogo%20de%20Jogos-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -199,6 +198,7 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
     </td>
   </tr>
 </table>
+
 
 🔌 **Projetos de API's**
 <table>
