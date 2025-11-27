@@ -92,11 +92,13 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
         <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
+        <br><br>
+        <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
       </td>
       <td align="center">
         <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
         <br><br>
-        <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" /><br>Kubernetes
       </td>
     </tr>
   </tbody>
@@ -200,7 +202,7 @@ Estou em constante busca por **oportunidades** que me permitam aplicar meus **co
 </table>
 
 
-🔌 **Projetos de API's**
+🔌 **API's**
 <table>
   <tr>
     <td align="center">
