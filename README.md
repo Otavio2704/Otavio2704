@@ -8,18 +8,7 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de **Engenharia de Software**, entusiasta da **programação** e da **tecnologia** como ferramenta de transformação social.  
-Acredito no poder do **desenvolvimento de sistemas** para impactar positivamente a vida das pessoas e enfrentar desafios do mundo real por meio de **soluções eficientes e escaláveis**.
-
-Tenho foco em **Desenvolvimento Back-end** com **Java** e **Spring Framework**, onde posso aplicar minha **lógica**, **organização** e **pensamento analítico** para construir aplicações **robustas**, **seguras** e **bem estruturadas**.  
-Tenho experiência prática em **testes automatizados** utilizando **JUnit** e **Mockito**, garantindo a **qualidade** e **confiabilidade** do código.
-
-Possuo experiência prática em **SQL**, especialmente com **PostgreSQL**, o que me permite trabalhar com **bancos de dados relacionais**, otimizar **consultas** e garantir a **integridade dos dados**.  
-Também possuo experiência básica em **Front-end**, o que me permite colaborar de forma mais integrada com **times multidisciplinares** e compreender melhor o **ciclo completo do desenvolvimento de software**.
-
-Possuo conhecimento em **AWS**, utilizando serviços de **cloud computing** para **deploy** e **gerenciamento de aplicações**, explorando recursos como **EC2, S3** e **RDS** para criar **soluções escaláveis e confiáveis na nuvem**.
-
-Estou em constante busca por **oportunidades** que me permitam aplicar meus **conhecimentos** em projetos **desafiadores** e **inovadores**. Valorizo ambientes que incentivem o **aprendizado contínuo** e o **trabalho em equipe**, e estou sempre disposto a explorar novas **linguagens**, **ferramentas** e **metodologias** que ampliem meu **repertório técnico e profissional**.
+Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e **APIs RESTful**. Atuação com **JUnit** e **Mockito** para testes unitários, e conhecimentos em **Amazon Web Services (AWS)**. Experiência com **Engenharia de Prompts** aplicada à **IA Generativa**, voltada ao aumento da produtividade e à aceleração do aprendizado. Interesse em ambientes colaborativos, aprendizado contínuo e desenvolvimento de soluções escaláveis e eficientes.
 
 ---
 
