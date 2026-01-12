@@ -88,6 +88,12 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" /><br>Kubernetes
+        <br><br>
+        <img src="./assets/logos/cicd.png" width="50" height="50" alt="CI/CD logo" /><br>CI/CD
+        <br><br>
+        <img src="./assets/logos/scrum.png" width="50" height="50" alt="Scrum logo" /><br>Scrum
+        <br><br>
+        <img src="./assets/logos/kanban.png" width="50" height="50" alt="Kanban logo" /><br>Kanban
       </td>
     </tr>
   </tbody>
