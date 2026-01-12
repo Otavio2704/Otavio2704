@@ -69,6 +69,8 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
+        <br><br>
+        <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
       </td>
       <td align="center">
         <img src="./assets/logos/Gradle.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
@@ -85,8 +87,6 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
       </td>
       <td align="center">
-        <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
-        <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" /><br>Kubernetes
       </td>
     </tr>
