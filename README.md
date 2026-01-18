@@ -85,21 +85,17 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
         <br><br>
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
-      </td>
+        </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" /><br>Kubernetes
         <br><br>
-        <img src="./assets/logos/cicd.png" width="50" height="50" alt="CI/CD logo" /><br>CI/CD
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka logo" /><br>Kafka
         <br><br>
-        <img src="./assets/logos/scrum.png" width="50" height="50" alt="Scrum logo" /><br>Scrum
-        <br><br>
-        <img src="./assets/logos/kanban.png" width="50" height="50" alt="Kanban logo" /><br>Kanban
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis logo" /><br>Redis
       </td>
     </tr>
   </tbody>
 </table>
-
-</div>
 
 ---
 
