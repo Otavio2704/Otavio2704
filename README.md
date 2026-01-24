@@ -7,8 +7,7 @@
 ---
 
 ### 🧠 Sobre mim
-
-Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e **APIs RESTful**. Atuação com **JUnit** e **Mockito** para testes unitários, e conhecimentos em **Amazon Web Services (AWS)**. Experiência com **Engenharia de Prompts** aplicada à **IA Generativa**, voltada ao **aumento da produtividade** e à **aceleração do aprendizado**. Interesse em **ambientes colaborativos**, **aprendizado contínuo** e **desenvolvimento de soluções escaláveis e eficientes**.
+Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot**, **PostgreSQL**, **APIs RESTful**, além de **Docker** para **containerização de aplicações**. Conhecimentos em **testes unitários** com **JUnit**, **Mockito** e noções de **Cloud Computing** com **AWS**. Utiliza **Engenharia de Prompts** para **IA Generativa** como apoio ao aprendizado e produtividade. Perfil **colaborativo**, com foco em **aprendizado contínuo** e desenvolvimento de **soluções bem estruturadas**, **escaláveis** e de **back-end**.
 
 ---
 
