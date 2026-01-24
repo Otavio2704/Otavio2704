@@ -97,63 +97,29 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
   </tbody>
 </table>
 
+</div>
+
 ---
 
 ### 🚀 Meus melhores projetos
-🧠 **Projetos Back-end**
+
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
-        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> 🏦 <strong>Sistema Bancário com Java</strong>
-      </a>
-      <br/>
-      <sub>Simulação de um banco simples, feito com Java.</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PandaLoko27/Organizador-de-Arquivos-PYTHON-">
-        <img src="https://img.shields.io/badge/-Organizador%20de%20Arquivos-306998?style=for-the-badge&logo=python&logoColor=white" />
-        <br/> 🔧 <strong>Organizador de Arquivos</strong>
-      </a>
-      <br/>
-      <sub>Organiza automaticamente arquivos em pastas por extensão usando Python.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PandaLoko27/TheSims-PYTHON">
-        <img src="https://img.shields.io/badge/-The%20Sims%20(POO)-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-        <br/> 🕹️ <strong>The Sims (com POO)</strong>
-      </a>
-      <br/>
-      <sub>Mini jogo com interações básicas inspirado em The Sims.</sub>
-    </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/Roguelike-Java">
         <img src="https://img.shields.io/badge/-Roguelike%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
         <br/> 🗡️ <strong>Roguelike-Java</strong>
       </a>
       <br/>
-      <sub>Pequeno jogo estilo roguelike feito com Java.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PandaLoko27/GerenciadorDeDespesas-JAVA">
-        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Despesas-brown?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> 💵 <strong>Gerenciador de Despesas</strong>
-      </a>
-      <br/>
-      <sub>Aplicação em Java para organizar e acompanhar gastos pessoais.</sub>
+      <sub>Jogo roguelike completo com geração procedural, sistema de combate tático, IA de inimigos e progressão com loja de power-ups.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/JogoForca--JAVA">
-        <img src="https://img.shields.io/badge/-Jogo%20da%20Forca-007396?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> 🪓 <strong>Jogo da Forca com Java</strong>
+      <a href="https://github.com/Otavio2704/API-AmigoSecreto2.0-Natal">
+        <img src="https://img.shields.io/badge/-API%20Amigo%20Secreto%202.0-FF4747?style=for-the-badge&logo=spring&logoColor=white" />
+        <br/> 🎅 <strong>Amigo Secreto 2.0 - API REST</strong>
       </a>
       <br/>
-      <sub>Jogo da forca clássico no console.</sub>
+      <sub>API para criação de grupos, cadastro de participantes, sorteio inteligente e envio de mensagens anônimas com temática natalina.</sub>
     </td>
   </tr>
   <tr>
@@ -165,37 +131,6 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
       <br/>
       <sub>Sistema completo para gerenciar times de futebol com persistência de dados.</sub>
     </td>
-    <td></td>
-  </tr>
-</table>
-
-🎨 <strong>Projetos Front-end</strong>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/meu--site">
-        <img src="https://img.shields.io/badge/-Portfólio%20Pessoal-4CAF50?style=for-the-badge&logo=html5&logoColor=white" />
-        <br/> 💼 <strong>Site Portfólio</strong>
-      </a>
-      <br/>
-      <sub>Meu site pessoal com projetos e informações profissionais.</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PandaLoko27/Catalogo-de-jogos-zerados--HTML-CSS-JS">
-        <img src="https://img.shields.io/badge/-Catálogo%20de%20Jogos-ff5722?style=for-the-badge&logo=javascript&logoColor=white" />
-        <br/> 🎮 <strong>Catálogo de Jogos Zerados</strong>
-      </a>
-      <br/>
-      <sub>Site simples para listar os jogos finalizados pelo usuário.</sub>
-    </td>
-  </tr>
-</table>
-
-
-🔌 **API's**
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/PandaLoko27/AcademiaGYM--APIrest">
         <img src="https://img.shields.io/badge/-API%20AcademiaGYM-6DB33F?style=for-the-badge&logo=spring&logoColor=pink" />
@@ -204,20 +139,25 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
       <br/>
       <sub>API RESTful com Spring Boot para controle de alunos, treinos e matrículas de uma academia de ginástica.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://github.com/Otavio2704/API-AmigoSecreto2.0-Natal">
-        <img src="https://img.shields.io/badge/-API%20Amigo%20Secreto%202.0-FF4747?style=for-the-badge&logo=spring&logoColor=white" />
-        <br/> 🎅 <strong>Amigo Secreto 2.0 - API REST</strong>
+      <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
+        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 🏦 <strong>Sistema Bancário com Java</strong>
       </a>
       <br/>
-      <sub>API para criação de grupos, cadastro de participantes, sorteio inteligente e envio de mensagens anônimas com temática natalina.</sub>
+      <sub>Simulação de um banco simples, feito com Java.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/meu--site">
+        <img src="https://img.shields.io/badge/-Portfólio%20Pessoal-4CAF50?style=for-the-badge&logo=html5&logoColor=white" />
+        <br/> 💼 <strong>Site Portfólio</strong>
+      </a>
+      <br/>
+      <sub>Meu site pessoal com projetos e informações profissionais.</sub>
     </td>
   </tr>
-</table>
-
-
-💾 **Banco de dados**
-<table>
   <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/BancoDeDados--Ecommerce--PostgreSQL">
@@ -237,7 +177,6 @@ Desenvolvedor Back-end com experiência em **Java, Spring Boot, PostgreSQL** e *
     </td>
   </tr>
 </table>
-
 
 ---
 
