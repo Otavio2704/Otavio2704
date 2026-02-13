@@ -239,6 +239,6 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
 ---
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=150&text=A%20tecnologia%20move%20o%20mundo.%0AO%20que%20voc%C3%AA%20criar%20com%20ela%20pode%20mover%20pessoas.&fontColor=000000&fontSize=24&color=0:fde047,50:facc15,100:eab308"
+    src="https://capsule-render.vercel.app/api?type=rect&height=190&text=%22Sou%20ego%C3%ADsta%20sobre%20o%20meu%20c%C3%B3digo.%20Quero%20que%20ele%20seja%20o%20melhor%20poss%C3%ADvel.%22&fontColor=000000&fontSize=22&color=0:fde047,50:facc15,100:eab308&desc=Linus%20Torvalds%20-%20%F0%9F%90%A7&descSize=18&descAlignY=70&descColor=000000"
   />
 </p>
