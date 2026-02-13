@@ -9,11 +9,10 @@
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end+%7C+Java+%26+Spring+Boot;Desenvolvendo+APIs+REST+robustas+e+escalaveis.;Apaixonado+por+solucoes+bem+estruturadas.;Em+busca+de+excelencia+tecnica+todos+os+dias."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end+%7C+Java+%26+Spring+Boot;Desenvolvendo+APIs+REST+robustas+e+escal%C3%A1veis.;Apaixonado+por+solu%C3%A7%C3%B5es+bem+estruturadas.;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias."
     alt="Texto animado"
   />
 </p>
-
 
 <!-- BOTÕES -->
 <p align="center">
@@ -40,11 +39,7 @@
 
 <hr/>
 
-### 🧠 Sobre mim
-
-🚀 Apaixonado por tecnologia e desenvolvimento de software  
-💡 Curioso por soluções que impactam positivamente a sociedade  
-💻 Em constante aprendizado: **Java, Spring Boot, APIs REST, SQL e boas práticas de desenvolvimento.**
+### 🧠 Sobre mim:
 
 Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot**, **PostgreSQL**, **APIs RESTful**, além de **Docker** para **containerização de aplicações**. Conhecimentos em **testes unitários** com **JUnit**, **Mockito** e noções de **Cloud Computing** com **AWS**. Utiliza **Engenharia de Prompts** para **IA Generativa** como apoio ao aprendizado e produtividade. Perfil **colaborativo**, com foco em **aprendizado contínuo** e desenvolvimento de **soluções bem estruturadas**, **escaláveis** e de **back-end**.
 
@@ -234,7 +229,7 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/otavio-backend2007)  
-📬 [Me envie um e-mail](mailto:otavioaredes62@gmail.com)
+[Me envie um e-mail](mailto:otavioaredes62@gmail.com)
 
 ---
 <p align="center">
