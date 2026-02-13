@@ -1,12 +1,51 @@
-# 🖥☕🍃 Otávio Guedes - Desenvolvedor Back-end
+<!-- BANNER TOPO (AMARELO) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Ot%C3%A1vio%20Guedes&fontColor=1a1a1a&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=0:facc15,50:eab308,100:ca8a04"
+    alt="banner"
+  />
+</p>
+
+<!-- FRASE ANIMADA -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end+%7C+Java+%26+Spring+Boot;Desenvolvendo+APIs+REST+robustas+e+escalaveis.;Apaixonado+por+solucoes+bem+estruturadas.;Em+busca+de+excelencia+tecnica+todos+os+dias."
+    alt="Texto animado"
+  />
+</p>
+
+
+<!-- BOTÕES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/otavio-backend2007" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:otavioaredes62@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Otavio2704" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://otavio2007-backend.edgeone.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-eab308?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+</p>
+
+<!-- CONTADORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Otavio2704&label=Visualiza%C3%A7%C3%B5es&color=eab308" />
+  <img src="https://img.shields.io/github/followers/Otavio2704?label=Seguidores&color=ca8a04" />
+  <img src="https://img.shields.io/github/stars/Otavio2704?label=Estrelas&color=ca8a04" />
+</p>
+
+<hr/>
+
+### 🧠 Sobre mim
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
 💡 Curioso por soluções que impactam positivamente a sociedade  
 💻 Em constante aprendizado: **Java, Spring Boot, APIs REST, SQL e boas práticas de desenvolvimento.**
 
----
-
-### 🧠 Sobre mim
 Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot**, **PostgreSQL**, **APIs RESTful**, além de **Docker** para **containerização de aplicações**. Conhecimentos em **testes unitários** com **JUnit**, **Mockito** e noções de **Cloud Computing** com **AWS**. Utiliza **Engenharia de Prompts** para **IA Generativa** como apoio ao aprendizado e produtividade. Perfil **colaborativo**, com foco em **aprendizado contínuo** e desenvolvimento de **soluções bem estruturadas**, **escaláveis** e de **back-end**.
 
 ---
@@ -84,7 +123,7 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
         <br><br>
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
-        </td>
+      </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" /><br>Kubernetes
         <br><br>
@@ -198,5 +237,8 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
 📬 [Me envie um e-mail](mailto:otavioaredes62@gmail.com)
 
 ---
-
-> "A tecnologia move o mundo. O que você criar com ela pode mover pessoas." 🌍
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=150&text=A%20tecnologia%20move%20o%20mundo.%0AO%20que%20voc%C3%AA%20criar%20com%20ela%20pode%20mover%20pessoas.&fontColor=000000&fontSize=24&color=0:fde047,50:facc15,100:eab308"
+  />
+</p>
