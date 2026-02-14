@@ -45,8 +45,6 @@ Sou **Otávio Guedes**, desenvolvedor **Back-end** apaixonado por construir sist
 
 Acredito que código bom é código testável: por isso me dedico a escrever testes com **JUnit** e **Mockito**. Estou sempre expandindo meu horizonte. Hoje explorando **Linux** e me aprofundando em arquiteturas mais robustas com **Kubernetes** e **Kafka**.
 
-Uso **IA** (ChatGPT, Claude) como uma aliada no aprendizado e na produtividade, não como muleta. No fim do dia, o que me move é a busca por **soluções bem estruturadas** e a sensação de que hoje fui melhor do que ontem.
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
