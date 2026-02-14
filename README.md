@@ -48,7 +48,6 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-
 <table style="background-color: white; border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
@@ -95,6 +94,8 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
+        <br><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="50" height="50" alt="DBeaver CE logo" /><br>DBeaver CE
       </td>
       <td align="center">
         <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
