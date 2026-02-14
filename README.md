@@ -41,13 +41,18 @@
 
 ### 🧠 Sobre mim:
 
-Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot**, **PostgreSQL**, **APIs RESTful**, além de **Docker** para **containerização de aplicações**. Conhecimentos em **testes unitários** com **JUnit**, **Mockito** e noções de **Cloud Computing** com **AWS**. Utiliza **Engenharia de Prompts** para **IA Generativa** como apoio ao aprendizado e produtividade. Perfil **colaborativo**, com foco em **aprendizado contínuo** e desenvolvimento de **soluções bem estruturadas**, **escaláveis** e de **back-end**.
+Sou **Otávio**, desenvolvedor **Back-end** apaixonado por construir sistemas que realmente funcionam bem — não só por fora, mas por dentro também. Tenho experiência prática com **Java**, **Spring Boot**, **PostgreSQL** e **APIs RESTful**, e uso **Docker** para garantir que minhas aplicações rodem do mesmo jeito em qualquer ambiente.
+
+Acredito que código bom é código testável: por isso me dedico a escrever testes com **JUnit** e **Mockito**. Estou sempre expandindo meu horizonte — hoje explorando **Cloud Computing com AWS** e me aprofundando em arquiteturas mais robustas com **Kubernetes** e **Kafka**.
+
+Uso **IA Generativa** (ChatGPT, Claude) como aliada no aprendizado e na produtividade, não como muleta. No fim do dia, o que me move é a busca por **soluções bem estruturadas** e a sensação de que hoje fui melhor do que ontem.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
+
 <table style="background-color: white; border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
@@ -81,9 +86,9 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="JUnit logo" /><br>JUnit
+        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" alt="JUnit logo" /><br>JUnit
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Mockito logo" /><br>Mockito
+        <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" width="50" height="50" alt="Mockito logo" /><br>Mockito
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
@@ -223,6 +228,14 @@ Desenvolvedor **Back-end**, com experiência prática em **Java**, **Spring Boot
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio2704&radius=16&theme=merko&area=true&order=5&hide_border=false&custom_title=Gráfico+de+Atividades" />
+</div>
+
+---
+
+### 🐍 Minhas contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
