@@ -242,8 +242,20 @@ Uso **IA** (ChatGPT, Claude) como uma aliada no aprendizado e na produtividade, 
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/otavio-backend2007)  
-[Me envie um e-mail](mailto:otavioaredes62@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/otavio-backend2007">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:otavioaredes62@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Aberto a networking, projetos e oportunidades em Back-end Java.</strong><br>
+  Se fizer sentido pra você, me chama 👊
+</p>
 
 ---
 <p align="center">
