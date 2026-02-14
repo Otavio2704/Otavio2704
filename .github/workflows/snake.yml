@@ -12,7 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Otavio2704
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#eab308&color_dots=#1a1a1a,#ca8a04,#eab308,#facc15,#fde047
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
