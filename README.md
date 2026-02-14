@@ -41,11 +41,11 @@
 
 ### 🧠 Sobre mim:
 
-Sou **Otávio**, desenvolvedor **Back-end** apaixonado por construir sistemas que realmente funcionam bem — não só por fora, mas por dentro também. Tenho experiência prática com **Java**, **Spring Boot**, **PostgreSQL** e **APIs RESTful**, e uso **Docker** para garantir que minhas aplicações rodem do mesmo jeito em qualquer ambiente.
+Sou **Otávio Guedes**, desenvolvedor **Back-end** apaixonado por construir sistemas que realmente funcionam bem não só por fora, mas por dentro também. Tenho experiência prática com **Java**, **Spring Boot**, **SQL** e **APIs RESTful**, e uso **Docker** para garantir que minhas aplicações rodem do mesmo jeito em qualquer ambiente.
 
-Acredito que código bom é código testável: por isso me dedico a escrever testes com **JUnit** e **Mockito**. Estou sempre expandindo meu horizonte — hoje explorando **Cloud Computing com AWS** e me aprofundando em arquiteturas mais robustas com **Kubernetes** e **Kafka**.
+Acredito que código bom é código testável: por isso me dedico a escrever testes com **JUnit** e **Mockito**. Estou sempre expandindo meu horizonte. Hoje explorando **Linux** e me aprofundando em arquiteturas mais robustas com **Kubernetes** e **Kafka**.
 
-Uso **IA Generativa** (ChatGPT, Claude) como aliada no aprendizado e na produtividade, não como muleta. No fim do dia, o que me move é a busca por **soluções bem estruturadas** e a sensação de que hoje fui melhor do que ontem.
+Uso **IA** (ChatGPT, Claude) como uma aliada no aprendizado e na produtividade, não como muleta. No fim do dia, o que me move é a busca por **soluções bem estruturadas** e a sensação de que hoje fui melhor do que ontem.
 
 ---
 
@@ -76,9 +76,9 @@ Uso **IA Generativa** (ChatGPT, Claude) como aliada no aprendizado e na produtiv
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" /><br>HTML5
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" /><br>HTML
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" /><br>CSS3
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" /><br>CSS
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" /><br>JavaScript
       </td>
@@ -88,7 +88,7 @@ Uso **IA Generativa** (ChatGPT, Claude) como aliada no aprendizado e na produtiv
       <td align="center">
         <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" alt="JUnit logo" /><br>JUnit
         <br><br>
-        <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" width="50" height="50" alt="Mockito logo" /><br>Mockito
+        <img src="./assets/logos/Mockito.png" width="50" height="50" alt="Mockito" /><br>Mockito
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
@@ -235,7 +235,7 @@ Uso **IA Generativa** (ChatGPT, Claude) como aliada no aprendizado e na produtiv
 ### 🐍 Minhas contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
