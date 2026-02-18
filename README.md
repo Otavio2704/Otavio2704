@@ -187,12 +187,12 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
       <sub>Simulação de um banco simples, feito com Java.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Otavio2704/meu--site">
-        <img src="https://img.shields.io/badge/-Portfólio%20Pessoal-4CAF50?style=for-the-badge&logo=html5&logoColor=white" />
-        <br/> 💼 <strong>Site Portfólio</strong>
+      <a href="https://github.com/Otavio2704/Galope-Furioso">
+        <img src="https://img.shields.io/badge/-Galope%20Furioso-ED8B00?style=for-the-badge&logo=java&logoColor=gold"/>
+        <br/> 🐎 <strong>Galope Furioso</strong>
       </a>
       <br/>
-      <sub>Meu site pessoal com projetos e informações profissionais.</sub>
+      <sub>Simulador de Corrida de Cavalos no Terminal</sub>
     </td>
   </tr>
   <tr>
