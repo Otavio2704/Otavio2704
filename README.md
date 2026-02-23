@@ -205,12 +205,12 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
       <sub>Sistema completo de banco de dados para e-commerce com PostgreSQL</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Otavio2704/BancoDeDados--Oficina--PostgreSQL">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-        <br/> 🔧 <strong>Banco de dados Oficina</strong>
+      <a href="https://github.com/Otavio2704/servidor-web-automatizado">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+        <br/> 🔧 <strong>Provisionamento Automático de Servidor Web</strong>
       </a>
       <br/>
-      <sub>Modelo de banco de dados para gestão de uma oficina mecânica com PostgreSQL.</sub>
+      <sub>Provisionamento automático completo de um servidor web utilizando Shell Script e o servidor Apache2. </sub>
     </td>
   </tr>
 </table>
