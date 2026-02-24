@@ -197,12 +197,12 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Otavio2704/BancoDeDados--Ecommerce--PostgreSQL">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-        <br/> 🛒 <strong>Banco de dados E-commerce</strong>
+      <a href="https://github.com/Otavio2704/CommitGen-AI">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+        <br/> 🤖 <strong>CommitGen AI</strong>
       </a>
       <br/>
-      <sub>Sistema completo de banco de dados para e-commerce com PostgreSQL</sub>
+      <sub>Gerador de mensagnes para Git Commit através de um Git Diff</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/servidor-web-automatizado">
