@@ -202,7 +202,7 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
         <br/> 🤖 <strong>CommitGen AI</strong>
       </a>
       <br/>
-      <sub>Gerador de mensagnes para Git Commit através de um Git Diff</sub>
+      <sub>Gerador de mensagens para Git Commit através de um Git Diff</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/servidor-web-automatizado">
