@@ -151,22 +151,22 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
       <sub>Jogo roguelike completo com geração procedural, sistema de combate tático, IA de inimigos e progressão com loja de power-ups.</sub>
     </td>
     <td align="center">
+      <a href="https://github.com/Otavio2704/CommitGen-AI">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+        <br/> 🤖 <strong>CommitGen AI</strong>
+      </a>
+      <br/>
+      <sub>Gerador de mensagens para Git Commit através de um Git Diff</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Otavio2704/API-AmigoSecreto2.0-Natal">
         <img src="https://img.shields.io/badge/-API%20Amigo%20Secreto%202.0-FF4747?style=for-the-badge&logo=spring&logoColor=white" />
         <br/> 🎅 <strong>Amigo Secreto 2.0 - API REST</strong>
       </a>
       <br/>
       <sub>API para criação de grupos, cadastro de participantes, sorteio inteligente e envio de mensagens anônimas com temática natalina.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/Gerenciador-de-Times-e-Jogadores">
-        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Times-green?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> ⚽ <strong>Gerenciador de Times e Jogadores</strong>
-      </a>
-      <br/>
-      <sub>Sistema completo para gerenciar times de futebol com persistência de dados.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/AcademiaGYM--APIrest">
@@ -179,13 +179,23 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
-        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> 🏦 <strong>Sistema Bancário com Java</strong>
+      <a href="https://github.com/Otavio2704/servidor-web-automatizado">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+        <br/> 🔧 <strong>Provisionamento Automático de Servidor Web</strong>
       </a>
       <br/>
-      <sub>Simulação de um banco simples, feito com Java.</sub>
+      <sub>Provisionamento automático completo de um servidor web utilizando Shell Script e o servidor Apache2. </sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/Gerenciador-de-Times-e-Jogadores">
+        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Times-green?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> ⚽ <strong>Gerenciador de Times e Jogadores</strong>
+      </a>
+      <br/>
+      <sub>Sistema completo para gerenciar times de futebol com persistência de dados.</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/Galope-Furioso">
         <img src="https://img.shields.io/badge/-Galope%20Furioso-ED8B00?style=for-the-badge&logo=java&logoColor=gold"/>
@@ -194,23 +204,13 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
       <br/>
       <sub>Simulador de Corrida de Cavalos no Terminal</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/Otavio2704/CommitGen-AI">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-        <br/> 🤖 <strong>CommitGen AI</strong>
+      <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
+        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 🏦 <strong>Sistema Bancário com Java</strong>
       </a>
       <br/>
-      <sub>Gerador de mensagens para Git Commit através de um Git Diff</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/servidor-web-automatizado">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-        <br/> 🔧 <strong>Provisionamento Automático de Servidor Web</strong>
-      </a>
-      <br/>
-      <sub>Provisionamento automático completo de um servidor web utilizando Shell Script e o servidor Apache2. </sub>
+      <sub>Simulação de um banco simples, feito com Java.</sub>
     </td>
   </tr>
 </table>
