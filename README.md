@@ -252,7 +252,7 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
 
 <p align="center">
   <strong>Aberto a networking, projetos e oportunidades em Back-end Java.</strong><br>
-  Se fizer sentido pra você, me chama 👊
+  Se tiver interesse, é só me chamar 👊
 </p>
 
 ---
