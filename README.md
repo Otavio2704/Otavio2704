@@ -51,27 +51,22 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
 
 <div align="center">
 
-<table style="background-color: white; border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th width="10%">💻 Back-end</th>
-      <th width="10%">🎨 Front-end</th>
-      <th width="10%">📚 Frameworks</th>
-      <th width="10%">🧪 Testes Unitários</th>
-      <th width="10%">🧰 IDE's</th>
-      <th width="10%">🗄️ Banco de Dados</th>
-      <th width="10%">☁️ DevOps</th>
-      <th width="10%">⚙️ Build Tools</th>
-      <th width="10%">🧪 Outras Tecnologias</th>
-      <th width="10%">🎯 Em Aprendizado</th>
+      <th width="20%">💻 Back-end</th>
+      <th width="20%">🎨 Front-end</th>
+      <th width="20%">📚 Frameworks & Testes</th>
+      <th width="20%">🗄️ Banco de Dados</th>
+      <th width="20%">🧰 IDE's</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
-        <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" /><br>HTML
@@ -82,32 +77,50 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" /><br>Spring Boot
-      </td>
-      <td align="center">
+        <br><br>
         <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" alt="JUnit logo" /><br>JUnit
         <br><br>
         <img src="./assets/logos/Mockito.png" width="50" height="50" alt="Mockito" /><br>Mockito
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL logo" /><br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm logo" /><br>PyCharm
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" /><br>IntelliJ IDEA
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
-        <br><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="50" height="50" alt="DBeaver CE logo" /><br>DBeaver CE
-      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th width="25%">☁️ DevOps</th>
+      <th width="25%">⚙️ Build Tools</th>
+      <th width="25%">🤖 IA & Automação</th>
+      <th width="25%">🎯 Estudando</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td align="center">
         <img src="./assets/logos/AWS.png" width="50" height="50" alt="AWS logo" /><br>AWS
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker logo" /><br>Docker
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" /><br>Kubernetes
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
-        <br><br>
-        <img src="./assets/logos/docker.png" width="50" height="50" alt="Docker logo" /><br>Docker
       </td>
       <td align="center">
         <img src="./assets/logos/Gradle.png" width="50" height="50" alt="Gradle logo" /><br>Gradle
@@ -119,13 +132,13 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
         <br><br>
         <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" /><br>Claude
         <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows logo" /><br>Windows
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Copilot logo" /><br>GitHub Copilot
+        <br><br>
+        <img src="https://ollama.com/public/ollama.png" width="50" height="50" alt="Ollama logo" /><br>Ollama
         <br><br>
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" /><br>n8n
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" /><br>Kubernetes
-        <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka logo" /><br>Kafka
         <br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis logo" /><br>Redis
