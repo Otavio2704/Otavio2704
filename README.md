@@ -125,7 +125,7 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
       <td align="center">
         <img src="./assets/logos/chatgpt.png" width="50" height="50" alt="ChatGPT logo" />&nbsp;&nbsp;
         <img src="./assets/logos/Claude.png" width="50" height="50" alt="Claude logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Copilot logo" />&nbsp;&nbsp;
+        <img src="./assets/logos/copilot.png" width="50" height="50" alt="GitHub Copilot logo" />&nbsp;&nbsp;
         <img src="https://ollama.com/public/ollama.png" width="50" height="50" alt="Ollama logo" />&nbsp;&nbsp;
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" />
       </td>
