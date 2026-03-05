@@ -41,7 +41,7 @@
 
 ### 🧠 Sobre mim:
 
-Sou **Otávio Guedes**, desenvolvedor **Back-end** apaixonado por construir sistemas que realmente funcionam bem não só por fora, mas por dentro também. Tenho experiência prática com **Java**, **Spring Boot**, **SQL** e **APIs RESTful**, e uso **Docker** para garantir que minhas aplicações rodem do mesmo jeito em qualquer ambiente.
+Sou **Otávio Guedes**, desenvolvedor **Back-end** apaixonado por construir sistemas que realmente funcionam bem não só por fora, mas por dentro também. Tenho experiência prática com **Java**, **Spring Boot**, **SQL** e **APIs RESTful**, e uso **Docker** e **Kubernetes** para garantir que minhas aplicações rodem do mesmo jeito em qualquer ambiente.
 
 Acredito que código bom é código testável: por isso me dedico a escrever testes com **JUnit** e **Mockito**. Estou sempre expandindo meu horizonte. Atualmente estou me aprofundando em ferramentas como **Redis** e **Kafka** para arquiteturas robustas.
 
