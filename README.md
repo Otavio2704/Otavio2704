@@ -172,7 +172,7 @@ Acredito que código bom é código testável: por isso me dedico a escrever tes
       <sub>API para criação de grupos, cadastro de participantes, sorteio inteligente e envio de mensagens anônimas com temática natalina.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Otavio2704/GamifyAPI">
+      <a href="https://github.com/Otavio2704/Gamify-API--GaaS">
         <img src="https://img.shields.io/badge/-GamifyAPI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
         <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
       </a>
