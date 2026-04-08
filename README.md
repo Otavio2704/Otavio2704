@@ -150,12 +150,12 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Otavio2704/Roguelike-Java">
-        <img src="https://img.shields.io/badge/-Roguelike%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> 🗡️ <strong>Roguelike-Java</strong>
+      <a href="https://github.com/Otavio2704/OpenChat-AI">
+        <img src="https://img.shields.io/badge/-OpenChat-black?style=for-the-badge&logo=openai&logoColor=white"/>
+        <br/> 🤖 <strong>OpenChat AI</strong>
       </a>
       <br/>
-      <sub>Jogo roguelike completo com geração procedural, sistema de combate tático, IA de inimigos e progressão com loja de power-ups.</sub>
+      <sub>Chatbot local para modelos de linguagem open source via Ollama.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/CommitGen-AI">
@@ -163,9 +163,29 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
         <br/> 🤖 <strong>CommitGen AI</strong>
       </a>
       <br/>
-      <sub>Gerador de mensagens para Git Commit através de um Git Diff</sub>
+      <sub>Gerador de mensagens para Git Commit através de um Git Diff.</sub>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/Gamify-API--GaaS">
+        <img src="https://img.shields.io/badge/-GamifyAPI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+        <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
+      </a>
+      <br/>
+      <sub>Plataforma de gamificação multi-tenant como serviço (GaaS): XP, níveis, conquistas, streaks e rankings plugáveis em qualquer aplicação via API Key.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/Roguelike-Java">
+        <img src="https://img.shields.io/badge/-Roguelike%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+        <br/> 🗡️ <strong>Roguelike-Java</strong>
+      </a>
+      <br/>
+      <sub>Jogo roguelike completo com geração procedural, sistema de combate tático, IA de inimigos e progressão com loja de power-ups.</sub>
+    </td>
+  </tr>
+
   <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/API-AmigoSecreto2.0-Natal">
@@ -176,23 +196,16 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
       <sub>API para criação de grupos, cadastro de participantes, sorteio inteligente e envio de mensagens anônimas com temática natalina.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Otavio2704/Gamify-API--GaaS">
-        <img src="https://img.shields.io/badge/-GamifyAPI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-        <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
+      <a href="https://github.com/Otavio2704/Galope-Furioso">
+        <img src="https://img.shields.io/badge/-Galope%20Furioso-ED8B00?style=for-the-badge&logo=java&logoColor=gold"/>
+        <br/> 🐎 <strong>Galope Furioso</strong>
       </a>
       <br/>
-      <sub>Plataforma de gamificação multi-tenant como serviço (GaaS): XP, níveis, conquistas, streaks e rankings plugáveis em qualquer aplicação via API Key.</sub>
+      <sub>Simulador de Corrida de Cavalos no Terminal.</sub>
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/servidor-web-automatizado">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-        <br/> 🔧 <strong>Provisionamento Automático de Servidor Web</strong>
-      </a>
-      <br/>
-      <sub>Provisionamento automático completo de um servidor web utilizando Shell Script e o servidor Apache2. </sub>
-    </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/Gerenciador-de-Times-e-Jogadores">
         <img src="https://img.shields.io/badge/-Gerenciador%20de%20Times-green?style=for-the-badge&logo=java&logoColor=white" />
@@ -200,16 +213,6 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
       </a>
       <br/>
       <sub>Sistema completo para gerenciar times de futebol com persistência de dados.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/Galope-Furioso">
-        <img src="https://img.shields.io/badge/-Galope%20Furioso-ED8B00?style=for-the-badge&logo=java&logoColor=gold"/>
-        <br/> 🐎 <strong>Galope Furioso</strong>
-      </a>
-      <br/>
-      <sub>Simulador de Corrida de Cavalos no Terminal</sub>
     </td>
     <td align="center">
       <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
