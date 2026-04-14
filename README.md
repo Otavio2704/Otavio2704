@@ -49,6 +49,7 @@ Valorizo **código de qualidade** e **testável**, aplicando **testes unitários
 Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** e **Kafka**, com foco em **arquiteturas distribuídas** e de **alta performance**.
 
 ---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -93,7 +94,8 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL logo" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB logo" />
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" />&nbsp;&nbsp;
