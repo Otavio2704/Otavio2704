@@ -42,7 +42,7 @@
 ### 🧠 Sobre mim:
 Sou **Otávio Guedes**, desenvolvedor **Back-end** com foco em **Java** e **Spring Boot**, atuando na construção de **APIs RESTful** e aplicações **escaláveis**.
 
-Tenho experiência prática no desenvolvimento de **projetos próprios**, utilizando **Java**, **SQL** e **boas práticas de arquitetura**, além de versionamento com **Git** e conteinerização com **Docker**.
+Tenho experiência prática no desenvolvimento de **projetos próprios**, utilizando **Java**, **SQL**, **NoSQL** e **boas práticas de arquitetura**, além de versionamento com **Git** e conteinerização com **Docker**.
 
 Valorizo **código de qualidade** e **testável**, aplicando **testes unitários** com **JUnit** e **Mockito** para garantir **confiabilidade** e **manutenção** dos sistemas.
 
