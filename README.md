@@ -152,15 +152,15 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Otavio2704/OpenChat-AI">
-        <img src="https://img.shields.io/badge/-OpenChat-black?style=for-the-badge&logo=openai&logoColor=white"/>
+      <a href="https://github.com/Otavio2704/kyron-ai">
+        <img src="https://img.shields.io/badge/-Kyron AI-black?style=for-the-badge&logo=openai&logoColor=white"/>
         <br/> 🤖 <strong>Kyron AI</strong>
       </a>
       <br/>
       <sub>Chatbot local para modelos de linguagem open source via Ollama.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Otavio2704/kyron-ai">
+      <a href="https://github.com/Otavio2704/CommitGen-AI">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
         <br/> 🤖 <strong>CommitGen AI</strong>
       </a>
