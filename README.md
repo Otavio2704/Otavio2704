@@ -153,7 +153,7 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
   <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/kytrionyx-ai">
-        <img src="https://img.shields.io/badge/-Kyron AI-black?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Kytrionyx AI-black?style=for-the-badge&logo=openai&logoColor=white"/>
         <br/> 🤖 <strong>Kytrionyx AI</strong>
       </a>
       <br/>
