@@ -152,9 +152,9 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Otavio2704/kyron-ai">
+      <a href="https://github.com/Otavio2704/kytrionyx-ai">
         <img src="https://img.shields.io/badge/-Kyron AI-black?style=for-the-badge&logo=openai&logoColor=white"/>
-        <br/> 🤖 <strong>Kyron AI</strong>
+        <br/> 🤖 <strong>Kytrionyx AI</strong>
       </a>
       <br/>
       <sub>Chatbot local para modelos de linguagem open source via Ollama.</sub>
