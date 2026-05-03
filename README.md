@@ -28,6 +28,9 @@
   <a href="https://otavio2007-backend.edgeone.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-eab308?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
+  <a href="https://www.instagram.com/otaviodev2007" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <!-- CONTADORES -->
@@ -248,8 +251,6 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
   <img src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
----
-
 ### 📫 Vamos nos conectar?
 
 <p align="center">
@@ -259,6 +260,18 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:otavioaredes62@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Otavio2704">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://otavio2007-backend.edgeone.app/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/otaviodev2007">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
 </p>
 
