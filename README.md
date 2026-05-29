@@ -43,7 +43,7 @@
 <hr/>
 
 ### 🧠 Sobre mim:
-Sou **Otávio Guedes**, desenvolvedor **Back-end** com foco em **Java** e **Spring Boot**, atuando na construção de **APIs RESTful** e aplicações **escaláveis**.
+Sou **Otávio Guedes**, desenvolvedor **Back-end** com foco em **Java** e **Spring Boot**, em busca de oportunidades de **estágio** ou **vaga júnior** para aplicar meus conhecimentos em projetos reais.
 
 Tenho experiência prática no desenvolvimento de **projetos próprios**, utilizando **Java**, **SQL**, **NoSQL** e **boas práticas de arquitetura**, além de versionamento com **Git** e conteinerização com **Docker**.
 
@@ -69,7 +69,8 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++ logo" />
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" />&nbsp;&nbsp;
@@ -140,8 +141,7 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++ logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions logo" />
       </td>
     </tr>
   </tbody>
@@ -161,8 +161,19 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
         <br/> 🤖 <strong>Kytrionyx AI</strong>
       </a>
       <br/>
-      <sub>Chatbot local para modelos de linguagem open source via Ollama.</sub>
+      <sub>Chatbot local para modelos open source via Ollama. Backend reativo com Java 17 + Spring Boot WebFlux, PostgreSQL para histórico de conversas, suporte a i18n em 7 idiomas e renderização de LaTeX e código inline.</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/Otavio2704/Gamify-API--GaaS">
+        <img src="https://img.shields.io/badge/-GamifyAPI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+        <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
+      </a>
+      <br/>
+      <sub>API REST de gamificação multi-tenant como serviço (GaaS). Autenticação dupla com JWT + API Key, webhooks assíncronos com retry exponencial, rankings em tempo real e suporte a XP, níveis, conquistas e streaks — plugável em qualquer aplicação.</sub>
+    </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/CommitGen-AI">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -170,17 +181,6 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
       </a>
       <br/>
       <sub>Gerador de mensagens para Git Commit através de um Git Diff.</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/Gamify-API--GaaS">
-        <img src="https://img.shields.io/badge/-GamifyAPI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-        <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
-      </a>
-      <br/>
-      <sub>Plataforma de gamificação multi-tenant como serviço (GaaS): XP, níveis, conquistas, streaks e rankings plugáveis em qualquer aplicação via API Key.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/Roguelike-Java">
