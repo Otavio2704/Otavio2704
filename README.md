@@ -169,7 +169,7 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
         <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
       </a>
       <br/>
-      <sub>API REST de gamificação multi-tenant como serviço (GaaS). Autenticação dupla com JWT + API Key, webhooks assíncronos com retry exponencial, rankings em tempo real e suporte a XP, níveis, conquistas e streaks — plugável em qualquer aplicação.</sub>
+      <sub>API REST de gamificação multi-tenant como serviço (GaaS). Autenticação dupla com JWT + API Key, webhooks assíncronos com retry exponencial, rankings em tempo real e suporte a XP, níveis, conquistas e streaks. Plugável em qualquer aplicação.</sub>
     </td>
   </tr>
 
