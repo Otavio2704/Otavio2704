@@ -43,13 +43,13 @@
 <hr/>
 
 ### 🧠 Sobre mim:
-Sou **Otávio Guedes**, desenvolvedor **Back-end** com foco em **Java** e **Spring Boot**, em busca de oportunidades de **estágio** ou **vaga júnior** para aplicar meus conhecimentos em projetos reais.
+Sou **Otávio Guedes**, desenvolvedor **Back-end Java** cursando Engenharia de Software, em busca de **estágio** ou **vaga júnior** para colocar em prática o que venho construindo fora da sala de aula.
 
-Tenho experiência prática no desenvolvimento de **projetos próprios**, utilizando **Java**, **SQL**, **NoSQL** e **boas práticas de arquitetura**, além de versionamento com **Git** e conteinerização com **Docker**.
+Gosto de resolver problemas reais: já entreguei projetos full-stack completos, do backend com **Java** e **Spring Boot** até o deploy em produção, passando por **PostgreSQL**, **Docker** e integração com **APIs de IA**. Tudo isso com versionamento sério no **Git** e testes automatizados com **JUnit** e **Mockito**.
 
-Valorizo **código de qualidade** e **testável**, aplicando **testes unitários** com **JUnit** e **Mockito** para garantir **confiabilidade** e **manutenção** dos sistemas.
+Sou exigente com a qualidade do que escrevo: prezo por código limpo, arquitetura bem pensada e sistemas que funcionam de verdade, não só "no papel". Por isso também curto compartilhar o que aprendo, seja no meu perfil de dev ou criando conteúdo técnico para outros iniciantes.
 
-Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** e **Kafka**, com foco em **arquiteturas distribuídas** e de **alta performance**.
+Atualmente estou aprofundando meus estudos em **Redis**, **Kafka** e **Kubernetes**, buscando entender na prática como construir sistemas distribuídos, escaláveis e resilientes.
 
 ---
 
@@ -75,12 +75,14 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript logo" />
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring logo" />&nbsp;&nbsp;
         <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" alt="JUnit logo" />&nbsp;&nbsp;
-        <img src="./assets/logos/Mockito.png" width="50" height="50" alt="Mockito" />
+        <img src="./assets/logos/Mockito.png" width="50" height="50" alt="Mockito" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React logo" />
       </td>
     </tr>
   </tbody>
@@ -111,7 +113,8 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions logo" />
       </td>
     </tr>
   </tbody>
@@ -140,8 +143,7 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis logo" />
       </td>
     </tr>
   </tbody>
@@ -156,50 +158,50 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
 <table>
   <tr>
     <td align="center">
+      <a href="https://otavio2704.github.io/gupify-web/">
+        <img src="https://img.shields.io/badge/-Gupify-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+        <br/> 📄 <strong>Gupify</strong>
+      </a>
+      <br/>
+      <sub>Plataforma full-stack de otimização de currículos para o ATS da Gupy. Backend em Spring Boot integrado à NVIDIA NIM, frontend em React + TypeScript e deploy completo em produção.</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/Otavio2704/kytrionyx-ai">
         <img src="https://img.shields.io/badge/-Kytrionyx AI-black?style=for-the-badge&logo=openai&logoColor=white"/>
         <br/> 🤖 <strong>Kytrionyx AI</strong>
       </a>
       <br/>
-      <sub>Chatbot local para modelos open source via Ollama. Backend reativo com Java 17 + Spring Boot WebFlux, PostgreSQL para histórico de conversas, suporte a i18n em 7 idiomas e renderização de LaTeX e código inline.</sub>
+      <sub>Chatbot local para modelos open source via Ollama. Backend reativo com Java 17 + Spring Boot WebFlux, histórico de conversas em PostgreSQL e suporte a i18n em 7 idiomas.</sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/Gamify-API--GaaS">
         <img src="https://img.shields.io/badge/-GamifyAPI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
         <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
       </a>
       <br/>
-      <sub>API REST de gamificação multi-tenant como serviço (GaaS). Autenticação dupla com JWT + API Key, webhooks assíncronos com retry exponencial, rankings em tempo real e suporte a XP, níveis, conquistas e streaks. Plugável em qualquer aplicação.</sub>
+      <sub>API REST de gamificação multi-tenant como serviço. Autenticação dupla com JWT + API Key, webhooks assíncronos com retry exponencial e rankings em tempo real.</sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/CommitGen-AI">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
         <br/> 🤖 <strong>CommitGen AI</strong>
       </a>
       <br/>
-      <sub>Gerador de mensagens para Git Commit através de um Git Diff.</sub>
+      <sub>Ferramenta que gera mensagens de commit a partir de um Git Diff, usando IA para interpretar as mudanças no código.</sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/Roguelike-Java">
         <img src="https://img.shields.io/badge/-Roguelike%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
         <br/> 🗡️ <strong>Roguelike-Java</strong>
       </a>
       <br/>
-      <sub>Jogo roguelike completo com geração procedural, sistema de combate tático, IA de inimigos e progressão com loja de power-ups.</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/API-AmigoSecreto2.0-Natal">
-        <img src="https://img.shields.io/badge/-API%20Amigo%20Secreto%202.0-FF4747?style=for-the-badge&logo=spring&logoColor=white" />
-        <br/> 🎅 <strong>Amigo Secreto 2.0 - API REST</strong>
-      </a>
-      <br/>
-      <sub>API para criação de grupos, cadastro de participantes, sorteio inteligente e envio de mensagens anônimas com temática natalina.</sub>
+      <sub>Jogo roguelike em Java com geração procedural de mapas, sistema de combate tático e IA de inimigos.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/Galope-Furioso">
@@ -207,7 +209,7 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
         <br/> 🐎 <strong>Galope Furioso</strong>
       </a>
       <br/>
-      <sub>Simulador de Corrida de Cavalos no Terminal.</sub>
+      <sub>Simulador de corrida de cavalos em Java, rodado direto no terminal.</sub>
     </td>
   </tr>
 
@@ -226,7 +228,7 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas como **Redis** 
         <br/> 🏦 <strong>Sistema Bancário com Java</strong>
       </a>
       <br/>
-      <sub>Simulação de um banco simples, feito com Java.</sub>
+      <sub>Simulação de um sistema bancário simples em Java, aplicando conceitos de POO.</sub>
     </td>
   </tr>
 </table>
