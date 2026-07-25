@@ -158,9 +158,9 @@ Atualmente estou aprofundando meus estudos em **Redis**, **Kafka** e **Kubernete
 <table>
   <tr>
     <td align="center">
-      <a href="https://otavio2704.github.io/gupify-web/">
+      <a href="https://otavio2704.github.io/cvibe-web/">
         <img src="https://img.shields.io/badge/-Gupify-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-        <br/> 📄 <strong>Gupify</strong>
+        <br/> 📄 <strong>CVibe</strong>
       </a>
       <br/>
       <sub>Plataforma full-stack de otimização de currículos para o ATS da Gupy. Backend em Spring Boot integrado à NVIDIA NIM, frontend em React + TypeScript e deploy completo em produção.</sub>
