@@ -159,7 +159,7 @@ Atualmente estou aprofundando meus estudos em **Redis**, **Kafka** e **Kubernete
   <tr>
     <td align="center">
       <a href="https://otavio2704.github.io/cvibe-web/">
-        <img src="https://img.shields.io/badge/-Gupify-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-CVibe-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
         <br/> 📄 <strong>CVibe</strong>
       </a>
       <br/>
