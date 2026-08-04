@@ -43,7 +43,7 @@
 <hr/>
 
 ### 🧠 Sobre mim:
-Sou **Otávio Guedes**, desenvolvedor **Back-end Java**, **estagiário na NicolaSec**" e estudante de Engenharia de **Engenharia de Software**.
+Sou **Otávio Guedes**, desenvolvedor **Back-end Java**, **estagiário na NicolaSec** e estudante de Engenharia de **Engenharia de Software**.
 
 Gosto de resolver problemas reais: já entreguei projetos full-stack completos, do backend com **Java** e **Spring Boot** até o deploy em produção, passando por **PostgreSQL**, **Docker** e integração com **APIs de IA**. Tudo isso com versionamento sério no **Git** e testes automatizados com **JUnit** e **Mockito**.
 
