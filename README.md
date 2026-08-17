@@ -101,7 +101,8 @@ Atualmente estou aprofundando meus estudos em **Redis**, **Kafka** e **Kubernete
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB logo" />&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis logo" />
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA logo" />&nbsp;&nbsp;
@@ -142,8 +143,7 @@ Atualmente estou aprofundando meus estudos em **Redis**, **Kafka** e **Kubernete
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" />
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka logo" />&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka logo" />
       </td>
     </tr>
   </tbody>
