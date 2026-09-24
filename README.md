@@ -238,12 +238,17 @@ Atualmente estou aprofundando meus estudos em **Redis**, **Kafka** e **Kubernete
 ## 🚀 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Otavio2704&show_icons=true&theme=merko&hide_border=false&custom_title=Estatísticas+do+GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Otavio2704&layout=compact&theme=merko&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
+  <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio2704&radius=16&theme=merko&area=true&order=5&hide_border=false&custom_title=Gráfico+de+Atividades" />
+  <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/3-stats.svg" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </div>
 
 ---
