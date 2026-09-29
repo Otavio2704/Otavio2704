@@ -42,14 +42,17 @@
 
 <hr/>
 
-### 🧠 Sobre mim:
-Sou **Otávio Guedes**, desenvolvedor **Back-end Java**, **estagiário na NicolaSec** e estudante de **Engenharia de Software**.
+### 🧠 Sobre mim
 
-Gosto de resolver problemas reais: já entreguei projetos full-stack completos, do backend com **Java** e **Spring Boot** até o deploy em produção, passando por **PostgreSQL**, **Docker** e integração com **APIs de IA**. Tudo isso com versionamento sério no **Git** e testes automatizados com **JUnit** e **Mockito**.
+Sou **Otávio Guedes**, desenvolvedor **Back-end Java** e estudante de **Engenharia de Software**.
 
-Sou exigente com a qualidade do que escrevo: prezo por código limpo, arquitetura bem pensada e sistemas que funcionam de verdade, não só "no papel". Por isso também curto compartilhar o que aprendo, seja no meu perfil de dev ou criando conteúdo técnico para outros iniciantes.
+Meu foco é construir aplicações que resolvam problemas reais, principalmente com **Java, Spring Boot, APIs REST e PostgreSQL**. Já desenvolvi projetos full-stack, trabalhando desde a arquitetura e implementação do backend até testes, automação de deploy e publicação em produção.
 
-Atualmente estou aprofundando meus estudos em **Redis**, **Kafka** e **Kubernetes**, buscando entender na prática como construir sistemas distribuídos, escaláveis e resilientes.
+No desenvolvimento, gosto de entender o problema antes de sair escrevendo código. Tenho interesse em **Clean Code, SOLID, arquitetura de software, segurança, testes automatizados e sistemas bem estruturados**. Uso **JUnit, Mockito, Docker e GitHub Actions** no meu processo de desenvolvimento.
+
+Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativo na Brasil JUG**, **Embaixador Universitário DIO** e **Embaixador Estudantil Google**, produzindo e compartilhando conteúdo sobre desenvolvimento e tecnologia.
+
+Atualmente, estou aprofundando meus conhecimentos em **Redis, Kafka e Kubernetes**, buscando entender melhor sistemas distribuídos, escalabilidade e infraestrutura.
 
 ---
 
