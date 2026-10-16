@@ -52,8 +52,6 @@ No desenvolvimento, gosto de entender o problema antes de sair escrevendo códig
 
 Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativo na Brasil JUG**, **Embaixador Universitário DIO** e **Embaixador Estudantil Google**, produzindo e compartilhando conteúdo sobre desenvolvimento e tecnologia.
 
-Atualmente, estou aprofundando meus conhecimentos em **Redis, Kafka e Kubernetes**, buscando entender melhor sistemas distribuídos, escalabilidade e infraestrutura.
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
