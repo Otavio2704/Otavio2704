@@ -52,8 +52,6 @@ Gosto de entender o problema antes de escrever código e aplicar **Clean Code, S
 
 Também compartilho o que aprendo como **Criador de Conteúdo Educativo na Brasil JUG**, **Embaixador Universitário DIO** e **Embaixador Estudantil Google**, produzindo e compartilhando conteúdo sobre desenvolvimento e tecnologia.
 
-🎯 **Busco oportunidades em desenvolvimento Back-end Java**, contribuindo para a construção de APIs e serviços e aprofundando meus conhecimentos no ecossistema Spring.
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
