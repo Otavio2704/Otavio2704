@@ -35,8 +35,8 @@
 
 <!-- CONTADORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Otavio2704&label=Visualiza%C3%A7%C3%B5es&color=eab308" />
-  <img src="https://img.shields.io/github/followers/Otavio2704?label=Seguidores&color=ca8a04" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Otavio2704.Otavio2704&amp;left_text=Visualizacoes&amp;right_color=%23eab308" alt="Visualizações do perfil" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOtavio2704&amp;query=%24.followers&amp;label=Seguidores&amp;logo=github&amp;color=ca8a04" />
   <img src="https://img.shields.io/github/stars/Otavio2704?label=Estrelas&color=ca8a04" />
 </p>
 
@@ -44,13 +44,15 @@
 
 ### 🧠 Sobre mim
 
-Sou **Otávio Guedes**, desenvolvedor **Back-end Java** e estudante de **Engenharia de Software**.
+Sou **Otávio Guedes**, desenvolvedor **Back-end Java** e estudante de **Engenharia de Software na Universidade São Judas Tadeu**.
 
-Meu foco é construir aplicações que resolvam problemas reais, principalmente com **Java, Spring Boot, APIs REST e PostgreSQL**. Já desenvolvi projetos full-stack, trabalhando desde a arquitetura e implementação do backend até testes, automação de deploy e publicação em produção.
+Meu foco é construir **APIs e aplicações com Java, Spring Boot e PostgreSQL**, trabalhando com autenticação, persistência de dados e integrações. Nos meus projetos, também exploro **programação reativa com Spring WebFlux e integração com IA**.
 
-No desenvolvimento, gosto de entender o problema antes de sair escrevendo código. Tenho interesse em **Clean Code, SOLID, arquitetura de software, segurança, testes automatizados e sistemas bem estruturados**. Uso **JUnit, Mockito, Docker e GitHub Actions** no meu processo de desenvolvimento.
+Gosto de entender o problema antes de escrever código e aplicar **Clean Code, SOLID, arquitetura em camadas e testes automatizados com JUnit e Mockito**. Utilizo **Docker e GitHub Actions** para apoiar a entrega das aplicações e, quando o projeto pede, desenvolvo interfaces com **React e TypeScript** — competências que complementam meu foco no back-end.
 
-Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativo na Brasil JUG**, **Embaixador Universitário DIO** e **Embaixador Estudantil Google**, produzindo e compartilhando conteúdo sobre desenvolvimento e tecnologia.
+Também compartilho o que aprendo como **Criador de Conteúdo Educativo na Brasil JUG**, **Embaixador Universitário DIO** e **Embaixador Estudantil Google**, produzindo e compartilhando conteúdo sobre desenvolvimento e tecnologia.
+
+🎯 **Busco oportunidades em desenvolvimento Back-end Java**, contribuindo para a construção de APIs e serviços e aprofundando meus conhecimentos no ecossistema Spring.
 
 ---
 
@@ -164,7 +166,7 @@ Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativ
         <br/> 📄 <strong>CVibe</strong>
       </a>
       <br/>
-      <sub>Plataforma full-stack de otimização de currículos para o ATS da Gupy. Backend em Spring Boot integrado à NVIDIA NIM, frontend em React + TypeScript e deploy completo em produção.</sub>
+      <sub>Plataforma de otimização de currículos para sistemas ATS com IA, processamento assíncrono e deploy automatizado.<br/><br/><strong>Stack:</strong> Java 17 · Spring Boot · React · TypeScript · NVIDIA NIM · GitHub Actions.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Otavio2704/kytrionyx-ai">
@@ -172,7 +174,7 @@ Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativ
         <br/> 🤖 <strong>Kytrionyx AI</strong>
       </a>
       <br/>
-      <sub>Chatbot local para modelos open source via Ollama. Backend reativo com Java 17 + Spring Boot WebFlux, histórico de conversas em PostgreSQL e suporte a i18n em 7 idiomas.</sub>
+      <sub>Interface para modelos locais de IA, com streaming de respostas, histórico de conversas e busca na web com fallback.<br/><br/><strong>Stack:</strong> Java 17 · Spring Boot · WebFlux · PostgreSQL · Docker · Ollama · SearXNG.</sub>
     </td>
   </tr>
 
@@ -183,55 +185,20 @@ Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativ
         <br/> 🎮 <strong>GamifyAPI - GaaS</strong>
       </a>
       <br/>
-      <sub>API REST de gamificação multi-tenant como serviço. Autenticação dupla com JWT + API Key, webhooks assíncronos com retry exponencial e rankings em tempo real.</sub>
+      <sub>API REST de gamificação multi-tenant, com autenticação dupla, webhooks assíncronos com retry exponencial e rankings em tempo real.<br/><br/><strong>Tecnologias e recursos:</strong> Spring · REST · JWT · API Key · Webhooks.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/CommitGen-AI">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-        <br/> 🤖 <strong>CommitGen AI</strong>
-      </a>
-      <br/>
-      <sub>Ferramenta que gera mensagens de commit a partir de um Git Diff, usando IA para interpretar as mudanças no código.</sub>
-    </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/Otavio2704/Roguelike-Java">
         <img src="https://img.shields.io/badge/-Roguelike%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
         <br/> 🗡️ <strong>Roguelike-Java</strong>
       </a>
       <br/>
-      <sub>Jogo roguelike em Java com geração procedural de mapas, sistema de combate tático e IA de inimigos.</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/Galope-Furioso">
-        <img src="https://img.shields.io/badge/-Galope%20Furioso-ED8B00?style=for-the-badge&logo=java&logoColor=gold"/>
-        <br/> 🐎 <strong>Galope Furioso</strong>
-      </a>
-      <br/>
-      <sub>Simulador de corrida de cavalos em Java, rodado direto no terminal.</sub>
+      <sub>Jogo roguelike em Java com geração procedural de mapas, combate tático e IA de inimigos. Projeto voltado à lógica de jogo e ao desenvolvimento de mecânicas interativas.<br/><br/><strong>Tecnologia:</strong> Java.</sub>
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Otavio2704/Gerenciador-de-Times-e-Jogadores">
-        <img src="https://img.shields.io/badge/-Gerenciador%20de%20Times-green?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> ⚽ <strong>Gerenciador de Times e Jogadores</strong>
-      </a>
-      <br/>
-      <sub>Sistema completo para gerenciar times de futebol com persistência de dados.</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PandaLoko27/sistema-bancario-java-poo">
-        <img src="https://img.shields.io/badge/-Sistema%20Bancário-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-        <br/> 🏦 <strong>Sistema Bancário com Java</strong>
-      </a>
-      <br/>
-      <sub>Simulação de um sistema bancário simples em Java, aplicando conceitos de POO.</sub>
-    </td>
-  </tr>
+
+
 </table>
 
 ---
@@ -239,13 +206,13 @@ Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativ
 ## 🚀 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otavio2704&amp;theme=github_dark" />
   <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/Otavio2704/Otavio2704/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Otavio2704&amp;theme=github_dark" />
 </div>
 
 <div align="center">
@@ -285,7 +252,7 @@ Também gosto de compartilhar o que aprendo. Sou **Criador de Conteúdo Educativ
 </p>
 
 <p align="center">
-  <strong>Aberto a networking, projetos e oportunidades em Back-end Java.</strong><br>
+  <strong>Aberto a networking e projetos Back-end Java.</strong><br>
   Se tiver interesse, é só me chamar 👊
 </p>
 
