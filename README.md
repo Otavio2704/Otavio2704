@@ -54,6 +54,7 @@ Também compartilho o que aprendo como **Criador de Conteúdo Educativo na Brasi
 
 ---
 
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -144,6 +145,7 @@ Também compartilho o que aprendo como **Criador de Conteúdo Educativo na Brasi
         <img src="./assets/logos/n8n.png" width="50" height="50" alt="n8n logo" />
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="Angular logo" />&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka logo" />
       </td>
     </tr>
@@ -151,6 +153,7 @@ Também compartilho o que aprendo como **Criador de Conteúdo Educativo na Brasi
 </table>
 
 </div>
+
 
 ---
 
