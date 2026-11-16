@@ -28,7 +28,7 @@
   <a href="https://otavio2007-backend.edgeone.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-eab308?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
-  <a href="https://www.instagram.com/otaviodev2007" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/otavio.dev2007" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
